@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Legacy Edition Minigames'
+copyright = '2023, Legacy Edition Minigames'
+author = 'Legacy Edition Minigames'
 
 release = '0.1'
 version = '0.1.0'
