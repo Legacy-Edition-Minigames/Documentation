@@ -1,0 +1,4 @@
+Page not found
+===================================
+
+The page you were looking for could not be found, maybe head back to the :doc:'index' page?
