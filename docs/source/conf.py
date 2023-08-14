@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'Legacy Edition Minigames'
-copyright = '2023, Legacy Edition Minigames'
-author = 'Legacy Edition Minigames'
+copyright = '2023, Legacy Edition Minigames Contributors'
+author = 'Legacy Edition Minigames Contributors'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.0.0'
 
 # -- General configuration
 
@@ -30,6 +30,13 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_logo = "images/logo.png"
+html_theme_options = {
+    'logo_only': True,
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- Favicon
+html_favicon = 'images/favicon.ico'
