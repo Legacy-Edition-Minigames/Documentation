@@ -12,7 +12,9 @@ To remove objects, use the edit tool (more information below).
 
 .. tip::
    Installing the map editor is esssential before proceeding :doc:`/modtools/install-editor`
+
    If you only plan to create 1 map size Large+ is suggested.
+
    When you are finished with your map check :doc:`/modtools/post-editor`
 
 .. attention::
