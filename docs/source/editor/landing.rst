@@ -1,4 +1,4 @@
-Modtools
+Editor
 ===========================
 .. meta::
    :description lang=en: Learn to create a custom map for a LEM server
