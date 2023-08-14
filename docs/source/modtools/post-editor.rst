@@ -10,10 +10,10 @@ To maintain compliance with the :doc:`/modtools/rules` battle maps must be under
 The easiset way of doing this is by trimming the unused content from the map files.
 If you haven't already please make sure that the :doc:`/modtools/border` are setup correctly
 To help with this process please carefully follow the instructions in this tutorial by PixeoGames:
-.. raw:: html
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/mLcab7LR6VU" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
+
+.. image:: https://img.youtube.com/vi/mLcab7LR6VU/maxresdefault.jpg
+    :alt: IMAGE ALT TEXT HERE
+    :target: https://www.youtube.com/watch?v=mLcab7LR6VU
 
 Submitting the map
 ^^^^^^^^^^^^^^^^^^
