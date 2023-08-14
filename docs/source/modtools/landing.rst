@@ -29,7 +29,7 @@ Resources
 * :doc:`/modtools/requirements`
 * :doc:`/modtools/editorjsonschema`
 * :doc:`/modtools/resourcepacks`
-* :ref:`updating`
+* :ref:`Updating`
 
 
 Support

@@ -10,7 +10,6 @@ Before installing to a world, you must download the editor from `GitHub <https:/
 
 Make sure to download the file named ``ModTools-Editor`` and not ``Source Code``
 
-.. _installing-to-a-world:
 Installing to a new world
 -------------------------
 
@@ -36,8 +35,9 @@ Click on the datapack's icon to enable it.
 
 From this point, you may configure your world's settings to your liking.
 
+.. _Installing:
 Installing to an existing world
--------------------------------
+*******************************
 
 Go to your singleplayer menu, click once on the world you wish to install the editor to and click the ``Edit`` button at the bottom.
 
@@ -59,15 +59,16 @@ Installing the resource pack
 .. error::
     The editor resource pack is not complete, a tutorial will need to be made later.
 
-.. :ref:`refname`:
+.. _Updating:
+
 Updating the Editor
--------------------
+*******************
 .. attention::
     Updating to the new Modtools Editor is not yet supported, and will comprimise the world file if attempted.
     The built in updater for the Modtools Editor Datapack will be unable to update the map to the newest release
     if it is installed in this state. Proceed at your own risk.
 
 If you are updating from the previous version of Modtools ``DP-0.1`` to the new Modtools Editor.
-Replace the old datapack in the folder (see: :ref:`installing-to-a-world`)
+Replace the old datapack in the folder (see: :ref:`Installing`)
 with the new Modtools Editor Datapack. Once you load back into the work the Editor will update all pre-existing
 entities to the new versioning scheme, giving them the ``lem.mt.version`` value of ``1``.
