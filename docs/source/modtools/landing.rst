@@ -39,4 +39,4 @@ Resources
 Support
 ^^^^^^^
 We understand not everyone understands the documentation first try.
-If you need support creating your map the `Legacy Edition Minigames Discord server <dummylink>`_ or the `Github Issues Page<https://github.com/Legacy-Edition-Minigames/ModTools/issues>`_ is avalible.
+If you need support creating your map the `Legacy Edition Minigames Discord server <dummylink>`_ or the `Github Issues Page <https://github.com/Legacy-Edition-Minigames/ModTools/issues>`_ is avalible.
