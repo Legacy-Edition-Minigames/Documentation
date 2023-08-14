@@ -59,7 +59,7 @@ Installing the resource pack
 .. error::
     The editor resource pack is not complete, a tutorial will need to be made later.
 
-.. _updating:
+.. :ref:`refname`:
 Updating the Editor
 -------------------
 .. attention::
@@ -68,6 +68,6 @@ Updating the Editor
     if it is installed in this state. Proceed at your own risk.
 
 If you are updating from the previous version of Modtools ``DP-0.1`` to the new Modtools Editor.
-Replace the old datapack in the folder `Instructions here <modtools/install-editor#installing-to-a-world>`_
+Replace the old datapack in the folder (see: :ref:`installing-to-a-world`)
 with the new Modtools Editor Datapack. Once you load back into the work the Editor will update all pre-existing
 entities to the new versioning scheme, giving them the ``lem.mt.version`` value of ``1``.
