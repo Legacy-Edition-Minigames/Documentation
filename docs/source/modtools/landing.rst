@@ -1,4 +1,4 @@
-Editor
+Modtools landing
 ===========================
 .. meta::
    :description lang=en: Learn to create a custom map for a LEM server
@@ -24,19 +24,15 @@ Getting Started
 
 Resources
 ^^^^^^^^^
-:doc:`/modtools/rules`
+* :doc:`/modtools/rules`
+* :doc:`/modtools/border`
+* :doc:`/modtools/requirements`
+* :doc:`/modtools/editorjsonschema`
+* :doc:`/modtools/resourcepacks`
+* `Updating the Editor <modtools/install-editor#updating>`_
 
-:doc:`/modtools/border`
-
-:doc:`/modtools/requirements`
-
-:doc:`/modtools/editorjsonschema`
-
-:doc:`/modtools/resourcepacks`
-
-:doc:`/modtools/updating`
 
 Support
 ^^^^^^^
 We understand not everyone understands the documentation first try.
-If you need support creating your map the `Legacy Edition Minigames Discord server <dummylink>`_ or the `Github Issues Page <https://github.com/Legacy-Edition-Minigames/ModTools/issues>`_ is avalible.
+If you need support creating your map the `Legacy Edition Minigames Discord server <dummylink>`_ or the `Github Issues Page<https://github.com/Legacy-Edition-Minigames/ModTools/issues>`_ is avalible.
