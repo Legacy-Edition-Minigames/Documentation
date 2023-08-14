@@ -6,32 +6,32 @@ Json Schema
 
 What is lebmod.json ?
 -----------
-Lebmod.json tells the installer everything it knows about your mod.
+Lebmod.json tells the installer everything it knows about your map.
 without it, the installer wouldn't know it exists.
 +-------------------------+--------------------------------------------------------------------------------------------+
 | Value name              | Value function                                                                             |
 +=========================+============================================================================================+
-| name                    | This is the name that will appear to users when they go to select the mod.                 |
+| name                    | This is the name that will appear to users when they go to select the map.                 |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| description             | What is the mod about? Lore? The description that appears when being voted for.            |
+| description             | What is the map about? Lore? The description that appears when being voted for.            |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| authors                 | The credits for the mod, and anyone else you feel like.                                    |
+| authors                 | The credits for the map, and anyone else you feel like.                                    |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| version                 | This value will will show which version of the mod is being used.                          |
+| version                 | This value will will show which version of the map is being used.                          |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| id                      | The internal mod name, must be unique to avoid conflicts with other mods.                  |
+| id                      | The internal map name, must be unique to avoid conflicts with other maps.                  |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| type                    | **Unused** This is a value is saved for future versions of modtools.                       |
+| type                    | **Unused** This is a value is saved for future versions of the Map Editor.                 |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| pack                    | Resource pack to be loaded by client. :doc:`/modtools/modtoolsresourcepacks`               |
+| pack                    | Resource pack to be loaded by client. :doc:`/editor/resourcepacks`                         |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| hassmall                | Does this mod have a version for small map sizes? If yes it will look for the small folder.|
+| hassmall                | Does this map have a version for small map sizes? If yes it will look for the small folder.|
 +-------------------------+--------------------------------------------------------------------------------------------+
-| haslarge                | Does this mod have a version for large map sizes? If yes it will look for the large folder.|
+| haslarge                | Does this map have a version for large map sizes? If yes it will look for the large folder.|
 +-------------------------+--------------------------------------------------------------------------------------------+
-| haslargeplus            | Does this mod have a largeplus map size? If yes it will look for the largeplus folder.     |
+| haslargeplus            | Does this map have a largeplus map size? If yes it will look for the largeplus folder.     |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| hasremastered           | Does this mod have a remastered map? If yes it will look for the remastered folder.        |
+| hasremastered           | Does this map have a remastered map? If yes it will look for the remastered folder.        |
 +-------------------------+--------------------------------------------------------------------------------------------+
 | centercoords_small      | The coordinates of the map center tool for the small map size.                             |
 +-------------------------+--------------------------------------------------------------------------------------------+

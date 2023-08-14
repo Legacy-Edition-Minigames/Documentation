@@ -4,9 +4,9 @@ Editor
    :description lang=en: Learn to create a custom map for a LEM server
 
 
-About Modtools
+About the Map
 -----------
-LEM's custom map creation suite also known as "Modtools" is a publicly avalible set of resources
+LEM's custom map creation suite known as "Map Editor" (Fomerly Modtools) is a publicly avalible set of resources
 to help users create a map that is compatible with servers running a LEM instance.
 
 **All maps must be in compliance with the** :doc:`/editor/rules`
