@@ -25,6 +25,7 @@ Chests
 ^^^^^^
 There are no set minimums or maximums for Chests; 
 however there are some recommendations for center and powerful chests.
+
 +-----------+---------------+-----------------+
 | Map Size  | Center Chests | Powerful Chests |
 +===========+===============+=================+
@@ -44,6 +45,7 @@ When building a Large+ map, 16 of each spawnpoint type should be used instead.
 
 Here are some spawnpoint recommendations.
 *If you only plan to create 1 map size Large+ is suggested.*
+
 +-----------+------------------------------+
 | Map size  | Spawnpoint count             |
 +===========+==============================+

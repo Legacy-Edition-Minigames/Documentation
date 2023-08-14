@@ -5,7 +5,7 @@ Editor
 
 
 
-.. error::
+.. attention::
     This page is not finished, the other pages are being created first.
 
 About the Modtools Map Editor
@@ -25,10 +25,15 @@ Getting Started
 Resources
 ^^^^^^^^^
 :doc:`/modtools/rules`
+
 :doc:`/modtools/border`
+
 :doc:`/modtools/requirements`
+
 :doc:`/modtools/editorjsonschema`
+
 :doc:`/modtools/resourcepacks`
+
 :doc:`/modtools/updating`
 
 Support

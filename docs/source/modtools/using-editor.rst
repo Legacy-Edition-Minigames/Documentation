@@ -56,6 +56,7 @@ Random Spawnpoint: Respawn locations for players when multiple lives are enabled
 
 Here are some spawnpoint recommendations.
 *If you only plan to create 1 map size Large+ is suggested.*
+
 +-----------+------------------------------+
 | Map size  | Spawnpoint count             |
 +===========+==============================+

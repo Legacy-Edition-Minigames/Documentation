@@ -7,6 +7,7 @@ Resource Pack List
 ---------------------
 In order to help with the creativity of your map several map resource packs can be selected from.
 These values can be put in the ``pack`` section of the :doc:`/modtools/editorjsonschema`
+
 +------------+-----------------------------------------------------------------------------------------+
 | Pack Value | About the Pack                                                                          |
 +============+=========================================================================================+

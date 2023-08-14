@@ -8,6 +8,7 @@ What is lebmod.json ?
 ---------------------
 Lebmod.json tells the installer everything it knows about your mod.
 without it, the installer wouldn't know it exists.
+
 +-------------------------+--------------------------------------------------------------------------------------------+
 | Value name              | Value function                                                                             |
 +=========================+============================================================================================+
@@ -23,7 +24,7 @@ without it, the installer wouldn't know it exists.
 +-------------------------+--------------------------------------------------------------------------------------------+
 | type                    | **Unused** This is a value is saved for future versions of the Map Editor.                 |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| pack                    | Resource pack to be loaded by client. :doc:`/modtools/resourcepacks`                         |
+| pack                    | Resource pack to be loaded by client. :doc:`/modtools/resourcepacks`                       |
 +-------------------------+--------------------------------------------------------------------------------------------+
 | hassmall                | Does this mod have a version for small map sizes? If yes it will look for the small folder.|
 +-------------------------+--------------------------------------------------------------------------------------------+
