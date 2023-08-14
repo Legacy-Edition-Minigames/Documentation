@@ -18,6 +18,7 @@ to help users create a map that is compatible with servers running a LEM instanc
 Getting Started
 ^^^^^^^^^^^^^^^
 * Read the :doc:`/modtools/rules`
+* :doc:`/modtools/install-editor`
 * :doc:`/modtools/using-editor`
 * :doc:`/modtools/github`
 * :doc:`/modtools/post-editor`
@@ -29,7 +30,6 @@ Resources
 * :doc:`/modtools/requirements`
 * :doc:`/modtools/editorjsonschema`
 * :doc:`/modtools/resourcepacks`
-* :ref:`Updating`
 
 
 Support
