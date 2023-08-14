@@ -1,6 +1,6 @@
 Legacy Edition Minigames Documentation
 ======================================
-
+**S_N00B's documentation testing, not stable.**
 Work in progress documentation for the Legacy Edition Minigames server.
 
 **Warning:** This documentation is vastly incomplete. If you're looking for the current documentation of ModTools, you can find it `here <https://github.com/Legacy-Edition-Minigames/ModTools/wiki>`_.
