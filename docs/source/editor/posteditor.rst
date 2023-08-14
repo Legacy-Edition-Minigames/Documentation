@@ -1,14 +1,14 @@
 I'm done, what now?
 ===========================
 .. meta::
-   :description lang=en: What to do after finishing your modtools content.
+   :description lang=en: What to do after finishing your map.
 
 
 Trimming the map
 -----------
-To maintain compliance with the :doc:`/modtools/modtoolsrules` battle maps must be under 25MB.
+To maintain compliance with the :doc:`/editor/rules` battle maps must be under 25MB.
 The easiset way of doing this is by trimming the unused content from the map files.
-If you haven't already please make sure that the :doc:`/modtools/modtoolsborder` are setup correctly
+If you haven't already please make sure that the :doc:`/editor/border` are setup correctly
 To help with this process please carefully follow the instructions in this tutorial by PixeoGames:
 .. raw:: html
 
@@ -18,5 +18,5 @@ To help with this process please carefully follow the instructions in this tutor
 
 Submitting the map
 -----------
-If you havent already please read :doc:`/modtools/modtoolsgithub`. 
+If you havent already please read :doc:`/editor/github`. 
 **Note: Submission method to be determinded by the LEM administration team.**

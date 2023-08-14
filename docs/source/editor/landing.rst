@@ -9,23 +9,23 @@ About Modtools
 LEM's custom map creation suite also known as "Modtools" is a publicly avalible set of resources
 to help users create a map that is compatible with servers running a LEM instance.
 
-**All maps must be in compliance with the** :doc:`/modtools/modtoolsrules`
+**All maps must be in compliance with the** :doc:`/editor/rules`
 
 Getting Started
 -----------
-* Read the :doc:`/modtools/modtoolsrules`
-* :doc:`/modtools/modtoolscreation`
-* :doc:`/modtools/modtoolsgithub`
-* :doc:`/modtools/modtoolspost`
+* Read the :doc:`/editor/rules`
+* :doc:`/editor/creation`
+* :doc:`/editor/github`
+* :doc:`/editor/posteditor`
 
 Resources
 -----------
-:doc:`/modtools/modtoolsrules`
-:doc:`/modtools/modtoolsborder`
-:doc:`/modtools/modtoolsrequirements`
-:doc:`/modtools/modtoolsjsonschema`
-:doc:`/modtools/modtoolsresourcepacks`
-:doc:`/modtools/modtoolsupdating`
+:doc:`/editor/rules`
+:doc:`/editor/border`
+:doc:`/editor/requirements`
+:doc:`/editor/editorjsonschema`
+:doc:`/editor/resourcepacks`
+:doc:`/editor/updating`
 
 Support
 -----------
