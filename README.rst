@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
-=======================================
+Legacy Edition Minigames Documentation
+======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Work in progress documentation for the Legacy Edition Minigames server.
 
-Read the tutorial here:
+**Warning:**   This documentation is vastly incomplete. If you're looking for the documentation of ModTools, you can find it `here <https://github.com/Legacy-Edition-Minigames/ModTools/wiki>`_.
 
-https://docs.readthedocs.io/en/stable/tutorial/
+See the current version of the documentation here:
+
+https://docs.legacyminigames.xyz
