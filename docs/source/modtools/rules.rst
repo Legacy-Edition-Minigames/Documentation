@@ -22,5 +22,5 @@ Rules
     * This limitation is intended to maintain server stability when loading a map, and preserve storage space for new maps to be added.
     * Tumble and Glide Maps do not apply to this limit, and size restrictions will be reevaluated when they are avalible.
     * Custom resource packs are not included in this limit, but will be reevaluated once avalible.
-5. Maps must meet the minimum defined requirements in :doc:`/editor/requirements`
+5. Maps must meet the minimum defined requirements in :doc:`/modtools/requirements`
     * If these requirements are not meet the server will be unable to load the map properly
