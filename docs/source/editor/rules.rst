@@ -1,14 +1,16 @@
-Custom Map Rules
+Modtools Map Rules
 ===========================
 .. meta::
    :description lang=en: Rules to follow when creating a custom map
 
+Notice
+------
+.. attention::
+    These rules are dummy rules to be replaced by the full language when decided by the LEM administration team.
 
-**NOTE:** These rules are dummy rules to be replaced by the full language when decided by the LEM administration team.
-=======
 
 Rules
------------
+-----
 1. All content must meet a quality bar.
     * *If* the map is adapted from another map, writen permision must be obtained by the original creator before it can be accepted. **Note: revise this language to include general quality assumtions**
     * Custom maps cannot give unfair advantages, (in combat or otherwise) to any player. **Note: revise this language**
