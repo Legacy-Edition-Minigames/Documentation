@@ -18,7 +18,7 @@ Rules
 2. **Note: Replace with rule regarding Content Appropriateness**
 3. Malicious Content is prohibited
     * **Note: Replace with subrules regarding "breakout"**
-4. Battle maps must be no larger than 25MB when compiled.
+4. Battle maps must be no larger than 25 MB when compiled.
     * This limitation is intended to maintain server stability when loading a map, and preserve storage space for new maps to be added.
     * Tumble and Glide Maps do not apply to this limit, and size restrictions will be reevaluated when they are available.
     * Custom resource packs are not included in this limit, but will be reevaluated once available.

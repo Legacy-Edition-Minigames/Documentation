@@ -46,7 +46,7 @@ Select the ``Open World Folder`` button.
 
 .. image:: /images/editor/install-editor/openworldfolder-button.png
 
-Inside of the folder you opened, open the ``datapacks`` folder.
+Inside the folder you opened, open the ``datapacks`` folder.
 
 Copy the ``ModTools-Editor.zip`` file to the opened folder.
 

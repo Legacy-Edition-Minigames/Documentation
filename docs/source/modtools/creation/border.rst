@@ -6,5 +6,5 @@ Using the border tool
 
 What are the borders?
 ^^^^^^^^^^^^^^^^^^^^^
-In order for the server to load the map properly it needs both a positive an a negative border.
+In order for the server to load the map properly it needs both a positive and a negative border.
 
