@@ -18,6 +18,7 @@ How do I upload my map to github?
     * For `Repository name` put in your map name.
     * Make sure it is set to public
     * Press Create Repository
+
 3. Delete the example files
     * Go into the ``src`` folder
     * Go into the ``world`` folder
@@ -25,17 +26,16 @@ How do I upload my map to github?
     * Press on more options
     .. image:: /images/editor/github/moreoptions.png
     * Delete the directory
+
 4. Upload your files 
     * Go back to the ``world`` folder
     * Click add files
     * Click Upload files
     * Upload your custom map's folder, (make sure the name matches the map size you are using)
     * Press commit changes
+
 5. Customise the lebmod.json
     * Go back to the ``src`` folder
     * Click on ``lebmod.json``
     * Click on the pen icon
     * Customise the lebmod.json to the values of your map. See: :doc:`/modtools/uploading/editorjsonschema`
-
-
-

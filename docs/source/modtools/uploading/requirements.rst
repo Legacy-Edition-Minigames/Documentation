@@ -21,8 +21,8 @@ Minecraft version
 The world file for the mod must be for ``1.20 - 1.20.X`` in order for the server to
 load it properly. This is because the server runs on 1.20.
 
-Chests
-^^^^^^
+Required Chests
+^^^^^^^^^^^^^^^
 There are no set minimums or maximums for Chests; 
 however there are some recommendations for center and powerful chests.
 
@@ -37,9 +37,8 @@ however there are some recommendations for center and powerful chests.
 +-----------+---------------+-----------------+
 
 
-
-Spawnpoints
-^^^^^^^^^^^
+Required Spawnpoints
+^^^^^^^^^^^^^^^^^^^^
 There must be at least 8 Central and 8 Random spawnpoints for a map to load properly.
 When building a Large+ map, 16 of each spawnpoint type should be used instead.
 
@@ -60,12 +59,12 @@ Here are some spawnpoint recommendations.
 
 
 
-Map Center
-^^^^^^^^^^
+Required Map Center
+^^^^^^^^^^^^^^^^^^^
 There should be 1 map center in a map in order for it to load properly
 
-Positive & Negative Borders
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Required Borders
+^^^^^^^^^^^^^^^^
 .. attention::
     This object is currently in the process of being reworked, documentation will be made once this is completed.
 There must be a posite and negative border, the positve border **must** be at coordinates **greater** than the negative border on all axis
