@@ -46,3 +46,54 @@ How do I upload my map to GitHub?
     * Click on ``lebmod.json``
     * Click on the pen icon
     * Customise the lebmod.json to the values of your map. See: :doc:`/modtools/uploading/editorjsonschema`
+
+
+
+Map Submission
+^^^^^^^^^^^^^^
+
+.. important::
+    The following references features that are not currently available to the public.
+
+1. Go to your Mod's Repository
+
+    * Press the ``<> Code`` button.
+
+    .. image:: /images/editor/github/code.png
+
+    * Copy the link provided in the ``Local/HTTPS`` section.
+
+    .. image:: /images/editor/github/copy.png
+
+    * Save this link for later.
+
+
+2. Go to `The Modtools Database <https://github.com/Legacy-Edition-Minigames/ModTools-Database/fork>`_
+
+    * **DO NOT** change the name
+    * Press ``Fork``
+
+3. Download and install `git <https://git-scm.com/download/>`_ to your machine 
+
+4. Once Git is installed, open your system's terminal.
+
+    * Type in ``git clone https://github.com/Legacy-Edition-Minigames/ModTools-Database.git`` and press return/enter.
+    * Type in ``cd Modtools-Database/Verified`` and press return/enter.
+    * Type in ``git init`` and press return/enter.
+    * Type in ``git submodule add``, paste in the link we copied in step 1. Your command should look something like this ``git submodule add https://github.com/username/mod.git`` Press Return/Enter.
+    * Type in ``git commit -m "Added Mod"`` replacing ``Mod`` with your mod's name, then press return/enter.
+    * Type in ``git branch -M main``and press return/enter.
+    * Type in ``git remote add origin git@github.com:username/Modtools-Database.git`` replacing ``username`` with your GitHub username. Then press return/enter.
+    * Type in ``git push -u origin main`` and press return/enter.
+    * You may need to sign in with GitHub in order to complete the commit.
+
+5. Create a pull request.
+
+    * Go to `This site <https://github.com/Legacy-Edition-Minigames/ModTools-Database/compare>`_
+    * Press ``compare across forks``.
+    * Select your username from the dropdown
+    * Create the Pull request
+
+6. Wait
+
+    * A moderator will review your pull request and request changes if needed.
