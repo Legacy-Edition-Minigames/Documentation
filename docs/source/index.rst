@@ -4,12 +4,20 @@ Welcome to the Legacy Edition Minigames documentation!
 
 .. toctree::
    :maxdepth: 2
-   :glob:
+   :hidden:
    :caption: 🛠️ Modtools
 
    /modtools/landing
-   /modtools/creation/*
-   /modtools/uploading/*
+   
+   /modtools/creation/install-editor
+   /modtools/creation/using-editor
+   /modtools/creation/rules
+   /modtools/creation/post-editor
+
+   /modtools/uploading/requirements
+   /modtools/uploading/github
+   /modtools/uploading/resourcepacks
+   /modtools/uploading/editorjsonschema
    
 
 .. caution::
