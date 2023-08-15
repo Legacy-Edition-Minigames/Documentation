@@ -67,6 +67,7 @@ Required Borders
 ^^^^^^^^^^^^^^^^
 .. attention::
     This object is currently in the process of being reworked, documentation will be made once this is completed.
+    
 There must be a posite and negative border, the positve border **must** be at coordinates **greater** than the negative border on all axis
 in order for the map to load properly. Otherwise the map will not function, or get stuck loading.
 

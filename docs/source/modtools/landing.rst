@@ -26,7 +26,7 @@ Getting Started
 Resources
 ^^^^^^^^^
 * :doc:`/modtools/creation/rules`
-* :doc:`/modtools/border`
+* :doc:`/modtools/creation/border`
 * :doc:`/modtools/uploading/requirements`
 * :doc:`/modtools/uploading/editorjsonschema`
 * :doc:`/modtools/uploading/resourcepacks`
