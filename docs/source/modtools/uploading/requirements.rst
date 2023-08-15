@@ -50,7 +50,7 @@ Here are some spawnpoint recommendations.
 +===========+==============================+
 | Small     | 8 spawnpoints of each type.  |
 +-----------+------------------------------+
-| Large     | 10 spawnpoints of each type. |
+| Large     | 8 spawnpoints of each type.  |
 +-----------+------------------------------+
 | Large+    | 16 spawnpoints of each type. |
 +-----------+------------------------------+
