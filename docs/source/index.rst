@@ -13,6 +13,7 @@ Welcome to the Legacy Edition Minigames documentation!
    /modtools/rules
    /modtools/requirements
    /modtools/post-editor
+      /modtools/github
    /modtools/resourcepacks
    /modtools/editorjsonschema
    
