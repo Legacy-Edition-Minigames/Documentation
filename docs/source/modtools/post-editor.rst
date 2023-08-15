@@ -28,13 +28,10 @@ Maximum possible file saving
 .. attention::
     This is **only for power users**. It is **not recommended** for regular maps.
 
-To reiterate previous warning, the savings provided are very small, and it is **not recommended** for normal maps.
-In order for the map to be loaded by the server the only sub-folders that are required are the:
-
-* entities folder
-* region folder
-
-If your map needs to contain functioning villagers the ``poi`` folder is also required.
-otherwise, all other folders and files in the world's folder can be discarded before compiling.
+In order for the map to be loaded by the server the only sub-folders that are required are the ``entities`` folder and the
+``region`` folder. If your map needs to contain functioning villagers the ``poi`` folder is also required.
+Otherwise, all other sub-folders and files in the world's folder can be discarded before compiling.
 This will make the world unable to be loaded in singleplayer, so it is recommended to handle compilation 
-and final file management on the github. Which will also improve the process when submitting.
+and final file management on github.
+
+To reiterate previous warning, the savings provided are very small, and it is **not recommended** for normal maps.
