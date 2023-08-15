@@ -82,14 +82,14 @@ Map Submission
     * Type in ``git init`` and press return/enter.
     * Type in ``git submodule add``, paste in the link we copied in step 1. Your command should look something like this ``git submodule add https://github.com/username/mod.git`` Press Return/Enter.
     * Type in ``git commit -m "Added Mod"`` replacing ``Mod`` with your mod's name, then press return/enter.
-    * Type in ``git branch -M main``and press return/enter.
+    * Type in ``git branch -M main`` and press return/enter.
     * Type in ``git remote add origin git@github.com:username/Modtools-Database.git`` replacing ``username`` with your GitHub username. Then press return/enter.
     * Type in ``git push -u origin main`` and press return/enter.
     * You may need to sign in with GitHub in order to complete the commit.
 
 5. Create a pull request.
 
-    * Go to `This site <https://github.com/Legacy-Edition-Minigames/ModTools-Database/compare>`_
+    * Go to `The Pull Request Creator <https://github.com/Legacy-Edition-Minigames/ModTools-Database/compare>`_
     * Press ``compare across forks``.
     * Select your username from the dropdown
     * Create the Pull request
