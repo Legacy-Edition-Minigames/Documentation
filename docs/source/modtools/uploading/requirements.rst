@@ -6,7 +6,7 @@ Map requirements
 
 Json Arguments
 ^^^^^^^^^^^^^^
-**All** elements of the lebmod.json must be in compliance with the :doc:`/modtools/editorjsonschema`
+**All** elements of the lebmod.json must be in compliance with the :doc:`/modtools/uploading/editorjsonschema`
 If a hasmaptype value is set to true, there **must** be a folder and map files for that map type,
 otherwise the map will fail to load.
 
@@ -14,7 +14,7 @@ Map size
 ^^^^^^^^
 The playable area of the map, **must** be within a 10 chunk render distance from the map center.
 this includes the border entities, which are at the edges of the playable area.
-If you need help fullfilling this requirement please follow the trimming guide found in :doc:`/modtools/post-editor`
+If you need help fullfilling this requirement please follow the trimming guide found in :doc:`/modtools/creation/post-editor`
 
 Minecraft version
 ^^^^^^^^^^^^^^^^^

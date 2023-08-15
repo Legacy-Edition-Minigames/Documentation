@@ -8,14 +8,8 @@ Welcome to the Legacy Edition Minigames documentation!
    :caption: 🛠️ Modtools
 
    /modtools/landing
-   /modtools/install-editor
-   /modtools/using-editor
-   /modtools/rules
-   /modtools/requirements
-   /modtools/post-editor
-   /modtools/github
-   /modtools/resourcepacks
-   /modtools/editorjsonschema
+   /modtools/creation/*
+   /modtools/uploading/*
    
 
 .. caution::

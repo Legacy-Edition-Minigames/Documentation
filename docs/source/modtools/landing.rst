@@ -13,23 +13,23 @@ About the Modtools Map Editor
 LEM's custom map creation suite the Modtools Map Editor is a publicly avalible set of resources
 to help users create a map that is compatible with servers running a LEM instance.
 
-**All maps must be in compliance with the** :doc:`/modtools/rules`
+**All maps must be in compliance with the** :doc:`/modtools/creation/rules`
 
 Getting Started
 ^^^^^^^^^^^^^^^
-* Read the :doc:`/modtools/rules`
-* :doc:`/modtools/install-editor`
-* :doc:`/modtools/using-editor`
-* :doc:`/modtools/github`
-* :doc:`/modtools/post-editor`
+* Read the :doc:`/modtools/creation/rules`
+* :doc:`/modtools/creation/install-editor`
+* :doc:`/modtools/creation/using-editor`
+* :doc:`/modtools/uploading/github`
+* :doc:`/modtools/creation/post-editor`
 
 Resources
 ^^^^^^^^^
-* :doc:`/modtools/rules`
+* :doc:`/modtools/creation/rules`
 * :doc:`/modtools/border`
-* :doc:`/modtools/requirements`
-* :doc:`/modtools/editorjsonschema`
-* :doc:`/modtools/resourcepacks`
+* :doc:`/modtools/uploading/requirements`
+* :doc:`/modtools/uploading/editorjsonschema`
+* :doc:`/modtools/uploading/resourcepacks`
 
 
 Support

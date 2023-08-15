@@ -35,7 +35,7 @@ How do I upload my map to github?
     * Go back to the ``src`` folder
     * Click on ``lebmod.json``
     * Click on the pen icon
-    * Customise the lebmod.json to the values of your map. See: :doc:`/modtools/editorjsonschema`
+    * Customise the lebmod.json to the values of your map. See: :doc:`/modtools/uploading/editorjsonschema`
 
 
 

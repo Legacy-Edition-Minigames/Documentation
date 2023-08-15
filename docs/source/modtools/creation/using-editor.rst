@@ -11,11 +11,11 @@ To remove objects, use the edit tool (more information below).
    Destroying blocks that were placed by an object (chests for example) will **not** remove the object. Please make sure you use the edit tool for removing objects.
 
 .. tip::
-   Installing the map editor is esssential before proceeding :doc:`/modtools/install-editor`
+   Installing the map editor is esssential before proceeding :doc:`/modtools/creation/install-editor`
 
    If you only plan to create 1 map size Large+ is suggested.
 
-   When you are finished with your map check :doc:`/modtools/post-editor`
+   When you are finished with your map check :doc:`/modtools/creation/post-editor`
 
 .. attention::
    These descriptions could be improved! Any suggestions would be appreciated
@@ -82,7 +82,7 @@ Map Center
 
 .. image:: /images/editor/using-editor/center.png
 
-Not to be confused with centercoords from :doc:`/modtools/editorjsonschema`
+Not to be confused with centercoords from :doc:`/modtools/uploading/editorjsonschema`
 The editor's map center tells the server where the players should look at round start, and where to hold players during map load.
 
 
