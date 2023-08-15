@@ -67,5 +67,5 @@ Updating the Editor
     if it is installed in this state. Proceed at your own risk.
 
 If you are updating from the previous version of Modtools ``DP-0.1`` to the new Modtools Editor.
-Replace the old datapack in the folder with the new Modtools Editor Datapack. Once you load back into the work the Editor will update all pre-existing
+Replace the old datapack in the folder with the new Modtools Editor Datapack. Once you load back into the world, the Editor will update all pre-existing
 entities to the new versioning scheme, giving them the ``lem.mt.version`` value of ``1``.
