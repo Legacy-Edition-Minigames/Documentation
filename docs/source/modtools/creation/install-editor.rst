@@ -62,8 +62,8 @@ Installing the resource pack
 Updating the Editor
 -------------------
 .. attention::
-    Updating to the new Modtools Editor is not yet supported, and will comprimise the world file if attempted.
-    The built in updater for the Modtools Editor Datapack will be unable to update the map to the newest release
+    Updating to the new Modtools Editor is not yet supported, and will compromise the world file if attempted.
+    The built-in updater for the Modtools Editor Datapack will be unable to update the map to the newest release
     if it is installed in this state. Proceed at your own risk.
 
 If you are updating from the previous version of Modtools ``DP-0.1`` to the new Modtools Editor.

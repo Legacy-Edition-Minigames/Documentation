@@ -10,7 +10,7 @@ Modtools landing
 
 About the Modtools Map Editor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-LEM's custom map creation suite the Modtools Map Editor is a publicly avalible set of resources
+LEM's custom map creation suite the Modtools Map Editor is a publicly available set of resources
 to help users create a map that is compatible with servers running a LEM instance.
 
 **All maps must be in compliance with the** :doc:`/modtools/creation/rules`
@@ -35,4 +35,4 @@ Resources
 Support
 ^^^^^^^
 We understand not everyone understands the documentation first try.
-If you need support creating your map the `Legacy Edition Minigames Discord server <dummylink>`_ or the `Github Issues Page <https://github.com/Legacy-Edition-Minigames/ModTools/issues>`_ is avalible.
+If you need support creating your map the `Legacy Edition Minigames Discord server <dummylink>`_ or the `Github Issues Page <https://github.com/Legacy-Edition-Minigames/ModTools/issues>`_ is available.

@@ -7,7 +7,7 @@ I'm done, what now?
 Trimming the map
 ^^^^^^^^^^^^^^^^
 To maintain compliance with the :doc:`/modtools/creation/rules` battle maps must be under 25MB.
-The easiset way of doing this is by trimming the unused content from the map files.
+The easiest way of doing this is by trimming the unused content from the map files.
 If you haven't already please make sure that the :doc:`/modtools/creation/border` are setup correctly
 To help with this process please carefully follow the instructions in this tutorial by PixeoGames:
 `https://youtu.be/mLcab7LR6VU <https://youtu.be/mLcab7LR6VU>`_
@@ -20,8 +20,8 @@ To help with this process please carefully follow the instructions in this tutor
 
 Submitting the map
 ^^^^^^^^^^^^^^^^^^
-If you havent already please read :doc:`/modtools/uploading/github`. 
-**Note: Submission method to be determinded by the LEM administration team.**
+If you haven't already please read :doc:`/modtools/uploading/github`. 
+**Note: Submission method to be determined by the LEM administration team.**
 
 
 Maximum possible file saving
@@ -32,7 +32,7 @@ Maximum possible file saving
 In order for the map to be loaded by the server the only sub-folders that are required are the ``entities`` folder and the
 ``region`` folder. If your map needs to contain functioning villagers the ``poi`` folder is also required.
 Otherwise, all other sub-folders and files in the world's folder can be discarded before compiling.
-This will make the world unable to be loaded in singleplayer, so it is recommended to handle compilation 
-and final file management on github.
+This will make the world unable to be loaded in single-player, so it is recommended to handle compilation 
+and final file management on GitHub.
 
 To reiterate previous warning, the savings provided are very small, and it is **not recommended** for normal maps.

@@ -11,7 +11,7 @@ To remove objects, use the edit tool (more information below).
    Destroying blocks that were placed by an object (chests for example) will **not** remove the object. Please make sure you use the edit tool for removing objects.
 
 .. tip::
-   Installing the map editor is esssential before proceeding :doc:`/modtools/creation/install-editor`
+   Installing the map editor is essential before proceeding :doc:`/modtools/creation/install-editor`
 
    If you only plan to create 1 map size Large+ is suggested.
 
@@ -26,7 +26,7 @@ Chests
 .. image:: /images/editor/using-editor/chests.png
 
 The Chest Items are used to create the 3 basic chests that can be found in the battle minigame.
-Chests contain loot that provide players with armor, weapons, food, potions, etc.
+Chests contain loot that provide players with armour, weapons, food, potions, etc.
 
 +-----------------+--------------------------------------------------------------------------------------------------------+
 | Standard Chest: | The most common chest to find on a map.                                                                |

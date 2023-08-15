@@ -7,7 +7,7 @@ Json Schema
 What is lebmod.json ?
 ---------------------
 Lebmod.json tells the installer everything it knows about your mod.
-without it, the installer wouldn't know it exists.
+Without it, the installer wouldn't know it exists.
 
 +-------------------------+--------------------------------------------------------------------------------------------+
 | Value name              | Value function                                                                             |

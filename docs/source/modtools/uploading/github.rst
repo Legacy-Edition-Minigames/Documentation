@@ -1,19 +1,19 @@
-Github Guide
+GitHub Guide
 ===========================
 .. meta::
-   :description lang=en: What is Github, How do I use it?
+   :description lang=en: What is GitHub, How do I use it?
 
 
-What is Github?
+What is GitHub?
 ^^^^^^^^^^^^^^^
-Github is a popular place to host and store files that use
+GitHub is a popular place to host and store files that use
 git version control. Which is a fancy way of saying, external file host with backups.
-We use github as it provides easy uploading, and an understandable GUI for people to use.
+We use GitHub as it provides easy uploading, and an understandable GUI for people to use.
 
-How do I upload my map to github?
+How do I upload my map to GitHub?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Create a github account `here <https://github.com/signup>`_
+1. Create a GitHub account `here <https://github.com/signup>`_
 
 2. Once signed in, go to `this site <https://github.com/new?template_name=Example-LEM-Mod&template_owner=Legacy-Edition-Minigames>`_
 

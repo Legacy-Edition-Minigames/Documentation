@@ -13,8 +13,8 @@ otherwise the map will fail to load.
 Map size
 ^^^^^^^^
 The playable area of the map, **must** be within a 10 chunk render distance from the map center.
-this includes the border entities, which are at the edges of the playable area.
-If you need help fullfilling this requirement please follow the trimming guide found in :doc:`/modtools/creation/post-editor`
+This includes the border entities, which are at the edges of the playable area.
+If you need help fulfilling this requirement please follow the trimming guide found in :doc:`/modtools/creation/post-editor`
 
 Minecraft version
 ^^^^^^^^^^^^^^^^^
@@ -68,8 +68,8 @@ Required Borders
 .. attention::
     This object is currently in the process of being reworked, documentation will be made once this is completed.
     
-There must be a posite and negative border, the positve border **must** be at coordinates **greater** than the negative border on all axis
-in order for the map to load properly. Otherwise the map will not function, or get stuck loading.
+There must be a positive and negative border, the positive border **must** be at coordinates **greater** than the negative border on all axis
+in order for the map to load properly. Otherwise, the map will not function, or get stuck loading.
 
 
 

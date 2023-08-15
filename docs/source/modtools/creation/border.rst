@@ -2,7 +2,7 @@ Using the border tool
 =========================
 
 .. attention::
-   documentation for this tool is incomplete while it is being reworked. Please be patient.
+   Documentation for this tool is incomplete while it is being reworked. Please be patient.
 
 What are the borders?
 ^^^^^^^^^^^^^^^^^^^^^
