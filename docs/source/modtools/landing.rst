@@ -21,7 +21,7 @@ Getting Started
 * :doc:`/modtools/creation/install-editor`
 * :doc:`/modtools/creation/using-editor`
 * :doc:`/modtools/uploading/github`
-* :doc:`/modtools/creation/post-editor`
+* :doc:`/modtools/uploading/post-editor`
 
 Resources
 ^^^^^^^^^

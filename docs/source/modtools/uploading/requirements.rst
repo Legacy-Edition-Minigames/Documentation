@@ -14,7 +14,7 @@ Map size
 ^^^^^^^^
 The playable area of the map, **must** be within a 10 chunk render distance from the map center.
 This includes the border entities, which are at the edges of the playable area.
-If you need help fulfilling this requirement please follow the trimming guide found in :doc:`/modtools/creation/post-editor`
+If you need help fulfilling this requirement please follow the trimming guide found in :doc:`/modtools/uploading/post-editor`
 
 Minecraft version
 ^^^^^^^^^^^^^^^^^

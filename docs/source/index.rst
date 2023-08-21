@@ -13,12 +13,25 @@ Welcome to the Legacy Edition Minigames documentation!
    /modtools/creation/using-editor
    /modtools/creation/border
    /modtools/creation/rules
-   /modtools/creation/post-editor
 
    /modtools/uploading/requirements
    /modtools/uploading/github
-   /modtools/uploading/resourcepacks
    /modtools/uploading/editorjsonschema
+   /modtools/uploading/post-editor
+   /modtools/uploading/resourcepacks
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 📦 Custompack
+
+   /custompack/landing
+   
+   /custompack/creation
+   /custompack/commonassets
+   /custompack/toggling
+   
    
 
 .. caution::
