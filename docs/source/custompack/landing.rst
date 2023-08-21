@@ -19,4 +19,3 @@ Getting Started
 * :doc:`/custompack/creation`
 * :doc:`/custompack/commonassets`
 * :doc:`/custompack/toggling`
-* :doc:`/custompack/limitations`

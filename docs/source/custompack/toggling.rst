@@ -4,7 +4,7 @@ Toggling Custompack
    :description lang=en: How to enable custompack
 
 .. attention::
-    This is **only for power users**. It is **not recommended** for regular maps.
+    This is **only for power users**. It is **not recommended** for regular users.
 
 Enabling and Disabling Custompack
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
