@@ -9,6 +9,44 @@ Commonly Changed Assets
 Commonly changed assets
 ^^^^^^^^^^^^^^^^^^^^^
 .. attention::
-    This list will be populated with some of the asset entries from the bare bones and faithful
-    LEM custompacks, as a basis for new custompack creators to learn from, and information on some of the custom models LEM uses. 
-    Along with where those assets are located in the current iteration of the pack.
+    This list is incomplete, if you've made a Custompack you can help by suggesting expansions.
+
++----------------+-------------------+----------------------------------------------------------+
+| Asset          | Appearance        | Location                                                 |
++================+===================+==========================================================+
+| Player icon    | Nametag & Tab     | assets/lem.base/textures/playericon/                     |
++----------------+-------------------+----------------------------------------------------------+
+| Victory Count  | Tab               | assets/lem.base/textures/tablist/victorycount.png        |
++----------------+-------------------+----------------------------------------------------------+
+| Heart Cosmetic | Tab               | assets/lem.base/textures/tablist/hearts/                 |
++----------------+-------------------+----------------------------------------------------------+
+| Player bar     | Action bar        | assets/lem.base/textures/playerbar/                      |
++----------------+-------------------+----------------------------------------------------------+
+| Banner sheild  | Showdown/Win      | assets/lem.base/textures/banner/base.png                 |
++----------------+-------------------+----------------------------------------------------------+
+| Banner Textbox | Showdown/Win      | assets/lem.base/textures/banner/textbox/                 |
++----------------+-------------------+----------------------------------------------------------+
+| Stopwatch      | Showdown          | assets/lem.base/textures/banner/stopwatch.png            |
++----------------+-------------------+----------------------------------------------------------+
+| Battle Icon    | Win               | assets/lem.battle/textures/banner/logo.png               |
++----------------+-------------------+----------------------------------------------------------+
+| Tumble Icon    | Win               | assets/lem.tumble/textures/banner/logo.png               |
++----------------+-------------------+----------------------------------------------------------+
+| Loading Bar    | Loading           | assets/lem.base/textures/loading/bar/progress/           |
++----------------+-------------------+----------------------------------------------------------+
+| Chest Refill   | Chest Refill      | assets/lem.battle/textures/chest/                        |
++----------------+-------------------+----------------------------------------------------------+
+| Armor Bar      | Vanilla Armor Bar | assets/lem.battle/textures/armorbar/                     |
++----------------+-------------------+----------------------------------------------------------+
+| Hunger         | Hotbar            | assets/lem.battle/textures/hunger/                       |
++----------------+-------------------+----------------------------------------------------------+
+| Small Inv Item | Vanilla Inv       | assets/minecraft/textures/lem.base/inventory/            |
++----------------+-------------------+----------------------------------------------------------+
+| Small Inv      | LCH Inv           | assets/lemclienthelper/textures/gui/legacy_inventory.png |
++----------------+-------------------+----------------------------------------------------------+
+| Ready Item     | Lobby Hotbar      | assets/minecraft/textures/lem.base/lobby/                |
++----------------+-------------------+----------------------------------------------------------+
+| Achivements    | Achivement menu   | assets/minecraft/textures/lem.battle/achievement/        |
++----------------+-------------------+----------------------------------------------------------+
+| Xof            | Backrooms         | assets/minecraft/textures/lem.base/xof.png               |
++----------------+-------------------+----------------------------------------------------------+
