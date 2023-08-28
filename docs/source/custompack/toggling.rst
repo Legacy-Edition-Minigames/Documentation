@@ -9,7 +9,7 @@ Toggling Custompack
 Enabling and Disabling Custompack
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Custompack can be enabled by using ``/trigger maptextures set -2``
-Once you relog the server will not load a resourcepack.
+Once you reload resources (either with ``/trigger reloadresources``, or reloging) the server will not load a resourcepack.
 Custompack can be disabled again by using ``/trigger maptextures set -2``
 
 Developer Information
