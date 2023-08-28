@@ -42,3 +42,5 @@ Welcome to the Legacy Edition Minigames documentation!
    The current documentation for ModTools can be found on `GitHub <https://github.com/Legacy-Edition-Minigames/ModTools/wiki>`_
 
 To get started with the Modtools Map Editor, see the :doc:`modtools/landing` guide.
+
+To learn about custompack see the :doc:`custompack/landing` information.
