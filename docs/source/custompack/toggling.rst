@@ -9,7 +9,7 @@ Toggling Custompack
 Enabling and Disabling Custompack
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Custompack can be enabled by using ``/trigger maptextures set -2``
-Once you reload resources (either with ``/trigger reloadresources``, or reloging) the server will not load a resourcepack.
+Once you reload resources (either with ``/trigger reloadresources``, or reloging) the server will not load its custom assets.
 Custompack can be disabled again by using ``/trigger maptextures set -2``
 
 Developer Information
@@ -21,5 +21,5 @@ uses serverutils to save and load the value from the backend. If a server is dis
 If you are trying to enable custompack on a disconnected server, and you have admin, you can manually give yourself the tag using ``tag @s add custompack``
 
 When a user enables custom pack ``lem.base:custompack`` 
-is set to ``true``, When a player relogs the tag: ``custompack`` will tell the server to load a blank pack, with no assets.
+is set to ``true``, When a player relogs the tag: ``custompack`` will tell the server to load the ``blank`` pack, which contains no assets.
 Allowing the pack the user has equipped to override all server assets.
