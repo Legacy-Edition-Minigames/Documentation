@@ -9,6 +9,8 @@ What is lebmod.json ?
 Lebmod.json tells the installer everything it knows about your mod.
 Without it, the installer wouldn't know it exists.
 
+Generic data
+------------
 +-------------------------+--------------------------------------------------------------------------------------------+
 | Value name              | Value function                                                                             |
 +=========================+============================================================================================+
@@ -24,21 +26,27 @@ Without it, the installer wouldn't know it exists.
 +-------------------------+--------------------------------------------------------------------------------------------+
 | type                    | **Unused** This is a value is saved for future versions of the Map Editor.                 |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| pack                    | Resource pack to be loaded by client. :doc:`/modtools/uploading/resourcepacks`             |
+| pack                    | Resource pack to be loaded by client. :doc:`/modtools/creation/resourcepacks`             |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| hassmall                | Does this mod have a version for small map sizes? If yes it will look for the small folder.|
-+-------------------------+--------------------------------------------------------------------------------------------+
-| haslarge                | Does this mod have a version for large map sizes? If yes it will look for the large folder.|
-+-------------------------+--------------------------------------------------------------------------------------------+
-| haslargeplus            | Does this mod have a largeplus map size? If yes it will look for the largeplus folder.     |
-+-------------------------+--------------------------------------------------------------------------------------------+
-| hasremastered           | Does this mod have a remastered map? If yes it will look for the remastered folder.        |
-+-------------------------+--------------------------------------------------------------------------------------------+
-| centercoords_small      | The coordinates the players will be teleported to for the small map size.                  |
-+-------------------------+--------------------------------------------------------------------------------------------+
-| centercoords_large      | The coordinates the players will be teleported to for the large map size.                  |
-+-------------------------+--------------------------------------------------------------------------------------------+
-| centercoords_largeplus  | The coordinates the players will be teleported to for the large+ map size.                 |
-+-------------------------+--------------------------------------------------------------------------------------------+
-| centercoords_remastered | The coordinates the players will be teleported to for the remastered version of the map.   |
-+-------------------------+--------------------------------------------------------------------------------------------+
+
+Battle specific data
+--------------------
++-------------------------+--------------------------------------------------------------------------------------------------+
+| Value name              | Value function                                                                                   |
++=========================+==================================================================================================+
+| hassmall                | Does this mod have a version for small map sizes? If yes it will look for the small folder.      |
++-------------------------+--------------------------------------------------------------------------------------------------+
+| haslarge                | Does this mod have a version for large map sizes? If yes it will look for the large folder.      |
++-------------------------+--------------------------------------------------------------------------------------------------+
+| haslargeplus            | Does this mod have a largeplus map size? If yes it will look for the largeplus folder.           |
++-------------------------+--------------------------------------------------------------------------------------------------+
+| hasremastered           | Does this mod have a remastered map? If yes it will look for the remastered folder.              |
++-------------------------+--------------------------------------------------------------------------------------------------+
+| centercoords_small      | The coordinates the players will be teleported to for the small map size.   X Y Z                |
++-------------------------+--------------------------------------------------------------------------------------------------+
+| centercoords_large      | The coordinates the players will be teleported to for the large map size.   X Y Z                |
++-------------------------+--------------------------------------------------------------------------------------------------+
+| centercoords_largeplus  | The coordinates the players will be teleported to for the large+ map size.   X Y Z               |
++-------------------------+--------------------------------------------------------------------------------------------------+
+| centercoords_remastered | The coordinates the players will be teleported to for the remastered version of the map.   X Y Z |
++-------------------------+--------------------------------------------------------------------------------------------------+
