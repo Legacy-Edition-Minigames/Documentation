@@ -26,7 +26,7 @@ Generic data
 +-------------------------+--------------------------------------------------------------------------------------------+
 | type                    | **Unused** This is a value is saved for future versions of the Map Editor.                 |
 +-------------------------+--------------------------------------------------------------------------------------------+
-| pack                    | Resource pack to be loaded by client. :doc:`/modtools/creation/resourcepacks`              |
+| pack                    | Resource pack to be loaded by client. :doc:`/modtools/uploading/resourcepacks`              |
 +-------------------------+--------------------------------------------------------------------------------------------+
 
 Battle specific data
