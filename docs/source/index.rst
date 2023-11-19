@@ -11,7 +11,6 @@ Welcome to the Legacy Edition Minigames documentation!
    
    /modtools/creation/install-editor
    /modtools/creation/using-editor
-   /modtools/creation/border
    /modtools/creation/rules
 
    /modtools/uploading/requirements

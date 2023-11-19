@@ -82,6 +82,9 @@ Map Center
 
 .. image:: /images/modtools/using-editor/center.png
 
+.. tip:: 
+   once placed, it will glow when its item is held.
+
 Not to be confused with centercoords from :doc:`/modtools/uploading/editorjsonschema`
 The editor's map center tells the server where the players should look at round start, and where to hold players during map load.
 
@@ -92,14 +95,16 @@ The editor's map center tells the server where the players should look at round 
 Positive & Negative Borders
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. error::
-    This object is currently in the process of being reworked, documentation will be made once this is completed.
+.. image:: /images/modtools/using-editor/borders.png
+
+Positive Border: It is green, and should be placed in the most positive corner of the map.
+Negative Border: It is red, and should be placed in the most negative corner of the map.
+
+The borders should always be facing eachother when placed, they are designed to help players
+align them properly.
+
+.. tip:: 
+   once placed, both will glow when a border item is held.
 
 .. important::
     This object must be placed for the map to load properly.
-
-Edit Tool
-^^^^^^^^^
-
-.. error::
-    This object is currently in the process of being reworked, documentation will be made once this is completed.
