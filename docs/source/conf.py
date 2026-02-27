@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Legacy Edition Minigames'
-copyright = '2023, Legacy Edition Minigames Contributors'
+copyright = '2026, Legacy Edition Minigames Contributors'
 author = 'Legacy Edition Minigames Contributors'
 
 release = '0.1'

@@ -18,8 +18,8 @@ If you need help fulfilling this requirement please follow the trimming guide fo
 
 Minecraft version
 ^^^^^^^^^^^^^^^^^
-The world file for the mod must be for ``1.20 - 1.20.X`` in order for the server to
-load it properly. This is because the server runs on 1.20.
+The world file for the mod must be for ``1.20.4`` in order for the server to
+load it properly. This is because the server runs on 1.20.4.
 
 Required Chests
 ^^^^^^^^^^^^^^^
@@ -45,17 +45,17 @@ When building a Large+ map, 16 of each spawnpoint type should be used instead.
 Here are some spawnpoint recommendations.
 *If you only plan to create 1 map size Large+ is suggested.*
 
-+-----------+------------------------------+
-| Map size  | Spawnpoint count             |
-+===========+==============================+
-| Small     | 8 spawnpoints of each type.  |
-+-----------+------------------------------+
-| Large     | 8 spawnpoints of each type.  |
-+-----------+------------------------------+
-| Large+    | 16 spawnpoints of each type. |
-+-----------+------------------------------+
-| Remasterd | 16 spawnpoints of each type. |
-+-----------+------------------------------+
++-----------+-------------------------------+
+| Map size   | Spawnpoint count             |
++===========+===============================+
+| Small      | 8 spawnpoints of each type.  |
++-----------+-------------------------------+
+| Large      | 8 spawnpoints of each type.  |
++-----------+-------------------------------+
+| Large+     | 16 spawnpoints of each type. |
++-----------+-------------------------------+
+| Remastered | 16 spawnpoints of each type. |
++-----------+-------------------------------+
 
 
 
@@ -66,11 +66,8 @@ There should be 1 map center in a map in order for it to load properly
 Required Borders
 ^^^^^^^^^^^^^^^^
 .. attention::
-    This object is currently in the process of being reworked, documentation will be made once this is completed.
-    
-There must be a positive and negative border, the positive border **must** be at coordinates **greater** than the negative border on all axis
-in order for the map to load properly. Otherwise, the map will not function, or get stuck loading.
+    The borders must stay within the 10 chunk render distance of the map center, or else it will fail to load.
 
+There must be a positive and negative border, the positive border **must** be above the negative border. Otherwise, the map will not function properly
 
-
-
+The borders are used to define where the in-game world border should be that prevents players from going outside of the map.

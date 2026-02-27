@@ -13,6 +13,13 @@ We use GitHub as it provides easy uploading, and an understandable GUI for peopl
 How do I upload my map to GitHub?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. warning::
+    **WARNING WARNING WARNING!!!**
+    
+    Submissions are **NOT ENABLED YET!!!** We are still working on finalizing the process for submissions.
+
+    Please wait for submissions to become available. Thank you.
+
 1. Create a GitHub account `here <https://github.com/signup>`_
 
 2. Once signed in, go to `this site <https://github.com/new?template_name=Example-LEM-Mod&template_owner=Legacy-Edition-Minigames>`_

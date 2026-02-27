@@ -6,7 +6,10 @@ To be able to add map data for ModTools (spawnpoints, borders, chests, etc) you 
 Before installing to a world, you must download the editor from `GitHub <https://github.com/Legacy-Edition-Minigames/ModTools/releases/latest>`_
 
 .. important::
-    Make sure you are on Minecraft ``1.20`` or ``1.20.1`` before proceeding.
+    Make sure you are on Minecraft ``1.20.4`` before proceeding.
+
+.. warning::
+    You may NOT use 1.20.5 or above currently.
 
 Make sure to download the file named ``ModTools-Editor`` and not ``Source Code``
 
@@ -50,22 +53,7 @@ Inside the folder you opened, open the ``datapacks`` folder.
 
 Copy the ``ModTools-Editor.zip`` file to the opened folder.
 
-Enter the world from the singleplayer menu.
-
 Installing the resource pack
 ----------------------------
 
-.. error::
-    The editor resource pack is not complete, a tutorial will need to be made later.
-
-
-Updating the Editor
--------------------
-.. attention::
-    Updating to the new Modtools Editor is not yet supported, and will compromise the world file if attempted.
-    The built-in updater for the Modtools Editor Datapack will be unable to update the map to the newest release
-    if it is installed in this state. Proceed at your own risk.
-
-If you are updating from the previous version of Modtools ``DP-0.1`` to the new Modtools Editor.
-Replace the old datapack in the folder with the new Modtools Editor Datapack. Once you load back into the world, the Editor will update all pre-existing
-entities to the new versioning scheme, giving them the ``lem.mt.version`` value of ``1``.
+The resource pack is a required part of the Modtools Editor, you can see how to install it here: :doc:`/modtools/creation/install-resources`

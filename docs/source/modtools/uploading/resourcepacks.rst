@@ -3,6 +3,9 @@ Built-in Resoure Packs
 .. meta::
    :description lang=en: Resourcepacks that modtools content can use
 
+.. note::
+   The ability to use custom resource packs will be added in the future.
+
 Resource Pack List
 ---------------------
 In order to help with the creativity of your map several map resource packs can be selected from.

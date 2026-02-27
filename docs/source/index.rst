@@ -10,6 +10,7 @@ Welcome to the Legacy Edition Minigames documentation!
    /modtools/landing
    
    /modtools/creation/install-editor
+   /modtools/creation/install-resources
    /modtools/creation/using-editor
    /modtools/creation/rules
 

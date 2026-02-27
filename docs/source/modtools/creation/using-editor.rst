@@ -5,10 +5,10 @@ The ModTools Editor gives you access to multiple items. The items place objects 
 
 To place objects, use your place block key (right click by default).
 
-To remove objects, use the edit tool (more information below).
+To remove objects, use the remove tool (more information below).
 
 .. warning::
-   Destroying blocks that were placed by an object (chests for example) will **not** remove the object. Please make sure you use the edit tool for removing objects.
+   Destroying blocks that were placed by an object (chests for example) will **not** remove the object. Please make sure you use the remove tool for removing objects.
 
 .. tip::
    Installing the map editor is essential before proceeding :doc:`/modtools/creation/install-editor`
@@ -16,9 +16,6 @@ To remove objects, use the edit tool (more information below).
    If you only plan to create 1 map size Large+ is suggested.
 
    When you are finished with your map check :doc:`/modtools/uploading/post-editor`
-
-.. attention::
-   These descriptions could be improved! Any suggestions would be appreciated
 
 Chests
 ^^^^^^
@@ -59,17 +56,17 @@ Random Spawnpoint: Respawn locations for players when multiple lives are enabled
 Here are some spawnpoint recommendations.
 *If you only plan to create 1 map size Large+ is suggested.*
 
-+-----------+------------------------------+
-| Map size  | Spawnpoint count             |
-+===========+==============================+
-| Small     | 8 spawnpoints of each type.  |
-+-----------+------------------------------+
-| Large     | 8 spawnpoints of each type.  |
-+-----------+------------------------------+
-| Large+    | 16 spawnpoints of each type. |
-+-----------+------------------------------+
-| Remasterd | 16 spawnpoints of each type. |
-+-----------+------------------------------+
++-----------+-------------------------------+
+| Map size   | Spawnpoint count             |
++===========+===============================+
+| Small      | 8 spawnpoints of each type.  |
++-----------+-------------------------------+
+| Large      | 8 spawnpoints of each type.  |
++-----------+-------------------------------+
+| Large+     | 16 spawnpoints of each type. |
++-----------+-------------------------------+
+| Remastered | 16 spawnpoints of each type. |
++-----------+-------------------------------+
 
 .. important::
    There must be at least 8 Central and 8 Random spawnpoints for a map to load properly.
@@ -83,7 +80,7 @@ Map Center
 .. image:: /images/modtools/using-editor/center.png
 
 .. tip:: 
-   once placed, it will glow when its item is held.
+   Once placed, it will glow when its item is held.
 
 Not to be confused with centercoords from :doc:`/modtools/uploading/editorjsonschema`
 The editor's map center tells the server where the players should look at round start, and where to hold players during map load.
@@ -104,7 +101,17 @@ The borders should always be facing eachother when placed, they are designed to 
 align them properly.
 
 .. tip:: 
-   once placed, both will glow when a border item is held.
+   Once placed, both will glow when a border item is held.
 
 .. important::
     This object must be placed for the map to load properly.
+
+Remove Tool
+^^^^^^^^^^^
+
+.. image:: /images/modtools/using-editor/remove.png
+
+.. tip::
+   To show all objects, sneak while holding the remove tool.
+
+The remove tool allows you to remove objects. Simply hold it and point at the object you want to remove, then click.

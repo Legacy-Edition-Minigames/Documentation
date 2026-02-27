@@ -17,6 +17,12 @@ To help with this process please carefully follow the instructions in this tutor
     :target: https://www.youtube.com/watch?v=mLcab7LR6VU
 
 
+.. warning::
+    **WARNING WARNING WARNING!!!**
+    
+    Submissions are **NOT ENABLED YET!!!** We are still working on finalizing the process for submissions.
+
+    Please wait for submissions to become available. Thank you.
 
 Submitting the map
 ^^^^^^^^^^^^^^^^^^
