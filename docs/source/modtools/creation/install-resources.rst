@@ -3,7 +3,11 @@ Installing the Resource Pack
 
 The resource pack is a required part of the Modtools Editor for it to function properly.
 
-Before installing to a world, you must download the resource pack from `GitHub <https://github.com/Legacy-Edition-Minigames/ModTools/releases/latest>`_
+Before installing to a world, you must download the resource pack
+
+If you are planning to build without a texture pack, get the `ModTools Pack <https://github.com/Legacy-Edition-Minigames/ModTools/releases/latest>`_
+
+If you are building with one of the :doc:`/modtools/uploading/resourcepacks`, get its pack from `LEM Resources <https://github.com/Legacy-Edition-Minigames/Minigame-Resources/releases/latest>`_
 
 .. important::
     Make sure you are on Minecraft ``1.20.4`` before proceeding.
