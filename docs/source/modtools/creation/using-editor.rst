@@ -3,6 +3,9 @@ Using the Map Editor
 
 The ModTools Editor gives you access to multiple items. The items place objects representing map data.
 
+..  tip::
+   If you do not receive these items, type ``/function modtools:give/run``
+
 To place objects, use your place block key (right click by default).
 
 To remove objects, use the remove tool (more information below).

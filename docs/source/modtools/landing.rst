@@ -26,6 +26,7 @@ Getting Started
 * :doc:`/modtools/creation/install-editor`
 * :doc:`/modtools/creation/install-resources`
 * :doc:`/modtools/creation/using-editor`
+* :doc:`/modtools/uploading/directory`
 * :doc:`/modtools/uploading/github`
 * :doc:`/modtools/uploading/post-editor`
 
@@ -35,6 +36,7 @@ Resources
 * :doc:`/modtools/uploading/requirements`
 * :doc:`/modtools/uploading/jsonschema`
 * :doc:`/modtools/uploading/resourcepacks`
+* :doc:`/modtools/uploading/compiling`
 
 
 Support

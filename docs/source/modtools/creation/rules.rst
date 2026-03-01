@@ -8,6 +8,8 @@ Notice
 .. attention::
     Rules to be replaced by the revised language when decided by the LEM administration team.
 
+    These rules are not final.
+
 Rules
 -----
 1. All content must meet a quality bar.

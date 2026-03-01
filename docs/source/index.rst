@@ -15,8 +15,10 @@ Welcome to the Legacy Edition Minigames documentation!
    /modtools/creation/rules
 
    /modtools/uploading/requirements
+   /modtools/uploading/directory
+   /modtools/uploading/compiling
    /modtools/uploading/github
-   /modtools/uploading/editorjsonschema
+   /modtools/uploading/jsonschema
    /modtools/uploading/post-editor
    /modtools/uploading/resourcepacks
 
@@ -39,7 +41,7 @@ Welcome to the Legacy Edition Minigames documentation!
    
    Information may not be accurate and could be referencing unreleased features.
 
-   The current documentation for ModTools can be found on `GitHub <https://github.com/Legacy-Edition-Minigames/ModTools/wiki>`_
+   Currently, the only section considered complete is ModTools.
 
 To get started with the Modtools Map Editor, see the :doc:`modtools/landing` guide.
 
