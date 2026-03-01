@@ -1,5 +1,5 @@
 I'm done, what now?
-===========================
+===================
 .. meta::
    :description lang=en: What to do after finishing your map.
 

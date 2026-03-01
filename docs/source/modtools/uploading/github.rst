@@ -1,5 +1,5 @@
 GitHub Guide
-===========================
+============
 .. meta::
    :description lang=en: What is GitHub, How do I use it?
 
@@ -52,4 +52,4 @@ How do I upload my map to GitHub?
     * Go back to the ``src`` folder
     * Click on ``lebmod.json``
     * Click on the pen icon
-    * Customise the lebmod.json to the values of your map. See: :doc:`/modtools/uploading/editorjsonschema`
+    * Customise the lebmod.json to the values of your map. See: :doc:`/modtools/uploading/jsonschema`

@@ -9,7 +9,7 @@ Before installing to a world, you must download the editor from `GitHub <https:/
     Make sure you are on Minecraft ``1.20.4`` before proceeding.
 
 .. warning::
-    You may NOT use 1.20.5 or above currently.
+    You may NOT use ``1.20.5`` or above currently.
 
 Make sure to download the file named ``ModTools-Editor`` and not ``Source Code``
 

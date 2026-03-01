@@ -1,5 +1,5 @@
 Using the Map Editor
-=========================
+====================
 
 The ModTools Editor gives you access to multiple items. The items place objects representing map data.
 
@@ -25,13 +25,13 @@ Chests
 The Chest Items are used to create the 3 basic chests that can be found in the battle minigame.
 Chests contain loot that provide players with armour, weapons, food, potions, etc.
 
-+-----------------+--------------------------------------------------------------------------------------------------------+
-| Standard Chest: | The most common chest to find on a map.                                                                |
-+-----------------+--------------------------------------------------------------------------------------------------------+
-| Central Chest:  | Found at the center of the map, these should not be used anywhere else.                                |
-+-----------------+--------------------------------------------------------------------------------------------------------+
-| Powerful Chest: | Rare chests containing powerful items. Don't use these often, and try to place them in risky locations.|
-+-----------------+--------------------------------------------------------------------------------------------------------+
++-----------------+---------------------------------------------------------------------------------------------------------+
+| Standard Chest: | The most common chest to find on a map.                                                                 |
++-----------------+---------------------------------------------------------------------------------------------------------+
+| Central Chest:  | Found at the center of the map, these should not be used anywhere else.                                 |
++-----------------+---------------------------------------------------------------------------------------------------------+
+| Powerful Chest: | Rare chests containing powerful items. Don't use these often, and try to place them in risky locations. |
++-----------------+---------------------------------------------------------------------------------------------------------+
 
 .. tip::
    These are the amount of Powerful Chests found in 4J's maps:
@@ -44,6 +44,17 @@ Chests contain loot that provide players with armour, weapons, food, potions, et
 
 By default, every 30 seconds 4 random chests are refilled with items.
 
++------------+------------------------------+
+| Map size   | Spawnpoint count             |
++============+==============================+
+| Small      | 8 spawnpoints of each type.  |
++------------+------------------------------+
+| Large      | 8 spawnpoints of each type.  |
++------------+------------------------------+
+| Large+     | 16 spawnpoints of each type. |
++------------+------------------------------+
+| Remastered | 16 spawnpoints of each type. |
++------------+------------------------------+
 
 Spawnpoints
 ^^^^^^^^^^^
@@ -56,17 +67,6 @@ Random Spawnpoint: Respawn locations for players when multiple lives are enabled
 Here are some spawnpoint recommendations.
 *If you only plan to create 1 map size Large+ is suggested.*
 
-+-----------+-------------------------------+
-| Map size   | Spawnpoint count             |
-+===========+===============================+
-| Small      | 8 spawnpoints of each type.  |
-+-----------+-------------------------------+
-| Large      | 8 spawnpoints of each type.  |
-+-----------+-------------------------------+
-| Large+     | 16 spawnpoints of each type. |
-+-----------+-------------------------------+
-| Remastered | 16 spawnpoints of each type. |
-+-----------+-------------------------------+
 
 .. important::
    There must be at least 8 Central and 8 Random spawnpoints for a map to load properly.
@@ -82,7 +82,7 @@ Map Center
 .. tip:: 
    Once placed, it will glow when its item is held.
 
-Not to be confused with centercoords from :doc:`/modtools/uploading/editorjsonschema`
+Not to be confused with centercoords from :doc:`/modtools/uploading/jsonschema`
 The editor's map center tells the server where the players should look at round start, and where to hold players during map load.
 
 

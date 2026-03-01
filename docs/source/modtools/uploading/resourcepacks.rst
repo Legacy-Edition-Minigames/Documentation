@@ -1,5 +1,5 @@
-Built-in Resoure Packs
-======================
+Built-in Resource Packs
+=======================
 .. meta::
    :description lang=en: Resourcepacks that modtools content can use
 
@@ -9,7 +9,7 @@ Built-in Resoure Packs
 Resource Pack List
 ---------------------
 In order to help with the creativity of your map several map resource packs can be selected from.
-These values can be put in the ``pack`` section of the :doc:`/modtools/uploading/editorjsonschema`
+These values can be put in the ``pack`` section of the :doc:`/modtools/uploading/jsonschema`
 
 +------------+-----------------------------------------------------------------------------------------+
 | Pack Value | About the Pack                                                                          |

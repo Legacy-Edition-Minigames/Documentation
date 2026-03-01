@@ -1,5 +1,5 @@
 Modtools landing
-===========================
+================
 .. meta::
    :description lang=en: Learn to create a custom map for a LEM server
 
@@ -33,7 +33,7 @@ Resources
 ^^^^^^^^^
 * :doc:`/modtools/creation/rules`
 * :doc:`/modtools/uploading/requirements`
-* :doc:`/modtools/uploading/editorjsonschema`
+* :doc:`/modtools/uploading/jsonschema`
 * :doc:`/modtools/uploading/resourcepacks`
 
 

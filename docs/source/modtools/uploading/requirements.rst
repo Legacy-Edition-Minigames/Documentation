@@ -1,12 +1,12 @@
 Map requirements
-=========================
+================
 
 .. tip::
    If you only plan to create 1 map size Large+ is suggested.
 
 Json Arguments
 ^^^^^^^^^^^^^^
-**All** elements of the lebmod.json must be in compliance with the :doc:`/modtools/uploading/editorjsonschema`
+**All** elements of the lebmod.json must be in compliance with the :doc:`/modtools/uploading/jsonschema`
 If a hasmaptype value is set to true, there **must** be a folder and map files for that map type,
 otherwise the map will fail to load.
 
@@ -19,7 +19,7 @@ If you need help fulfilling this requirement please follow the trimming guide fo
 Minecraft version
 ^^^^^^^^^^^^^^^^^
 The world file for the mod must be for ``1.20.4`` in order for the server to
-load it properly. This is because the server runs on 1.20.4.
+load it properly. This is because the server runs on ``1.20.4``.
 
 Required Chests
 ^^^^^^^^^^^^^^^
@@ -45,17 +45,17 @@ When building a Large+ map, 16 of each spawnpoint type should be used instead.
 Here are some spawnpoint recommendations.
 *If you only plan to create 1 map size Large+ is suggested.*
 
-+-----------+-------------------------------+
++------------+------------------------------+
 | Map size   | Spawnpoint count             |
-+===========+===============================+
++============+==============================+
 | Small      | 8 spawnpoints of each type.  |
-+-----------+-------------------------------+
++------------+------------------------------+
 | Large      | 8 spawnpoints of each type.  |
-+-----------+-------------------------------+
++------------+------------------------------+
 | Large+     | 16 spawnpoints of each type. |
-+-----------+-------------------------------+
++------------+------------------------------+
 | Remastered | 16 spawnpoints of each type. |
-+-----------+-------------------------------+
++------------+------------------------------+
 
 
 
