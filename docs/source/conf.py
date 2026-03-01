@@ -18,7 +18,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
-    'sphinx_rtd_dark_mode'
+    'sphinx_rtd_dark_mode',
+    'notfound.extension'
 ]
 
 intersphinx_mapping = {
