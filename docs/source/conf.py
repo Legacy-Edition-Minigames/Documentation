@@ -6,7 +6,7 @@ project = 'Legacy Edition Minigames'
 copyright = '2026, Legacy Edition Minigames Contributors'
 author = 'Legacy Edition Minigames Contributors'
 
-release = '0.1'
+release = '1.0'
 version = '0.0.0'
 
 # -- General configuration
