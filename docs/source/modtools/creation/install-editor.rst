@@ -1,5 +1,7 @@
 Installing the Map Editor
 =========================
+.. meta::
+   :description lang=en: How to install the map editor for making custom maps
 
 To be able to add map data for ModTools (spawnpoints, borders, chests, etc) you must install the Editor DataPack first.
 

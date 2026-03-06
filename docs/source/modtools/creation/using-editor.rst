@@ -1,5 +1,7 @@
 Using the Map Editor
 ====================
+.. meta::
+   :description lang=en: How to use the map editor when making a custom map
 
 The ModTools Editor gives you access to multiple items. The items place objects representing map data.
 

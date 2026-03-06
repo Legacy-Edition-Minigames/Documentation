@@ -1,5 +1,7 @@
 Compiling your map
 ==================
+.. meta::
+   :description lang=en: How to compile a map directory into a .lebmod file
 
 .. attention::
     This step is **Not nessecary** if you are just planning to upload your map to the public server.

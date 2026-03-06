@@ -1,5 +1,7 @@
 Installing the Resource Pack
 ============================
+.. meta::
+   :description lang=en: How to install the resource pack for the map editor
 
 The resource pack is a required part of the Modtools Editor for it to function properly.
 

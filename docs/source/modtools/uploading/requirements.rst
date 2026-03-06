@@ -1,5 +1,7 @@
 Map requirements
 ================
+.. meta::
+   :description lang=en: Requirements for a custom map to be functional
 
 .. tip::
    If you only plan to create 1 map size Large+ is suggested.

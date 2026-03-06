@@ -1,5 +1,7 @@
 Creating the map directory
 ===========================
+.. meta::
+   :description lang=en: How to set up the folder your map data sits in when making a custom map
 
 What is the map directory?
 --------------------------
