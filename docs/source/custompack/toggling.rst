@@ -3,8 +3,10 @@ Toggling Custompack
 .. meta::
    :description lang=en: How to enable custompack
 
-.. attention::
+.. danger::
     This is **only for power users**. It is **not recommended** for regular users.
+
+    Using this could cause usability issues, proceed with caution.
 
 Enabling and Disabling Custompack
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

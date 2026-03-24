@@ -6,8 +6,6 @@ Commonly Changed Assets
 .. attention::
     This is **only for power users**. It is **not recommended** for regular users.
 
-Commonly changed assets
-^^^^^^^^^^^^^^^^^^^^^^^
 .. attention::
     This list is incomplete, if you've made a Custompack you can help by suggesting expansions.
 
