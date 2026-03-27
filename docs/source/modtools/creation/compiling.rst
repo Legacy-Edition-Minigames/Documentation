@@ -9,7 +9,10 @@ Compiling your map
     This is intended for users that want to install their map on a ToolBox server.
 
 
-Make sure you have finished :doc:`/modtools/uploading/directory`
+Make sure you have finished :doc:`/modtools/creation/directory`
+
+.. important::
+    Make sure your map meets the :doc:`/modtools/creation/requirements`, or else you may encounter errors when trying to load your map in-game
 
 What is the compiling process?
 ------------------------------

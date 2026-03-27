@@ -16,27 +16,28 @@ The Modtools Map Editor is the editor for creating custom maps for LEM.
 Currently it only works with Battle, but in the future it will support Glide and Tumble.
 
 .. important::
-    **All maps must be in compliance with the** :doc:`/modtools/creation/rules`
+    **All maps must be in compliance with the** :doc:`/modtools/uploading/rules`
 
     Make sure to read it before you start building.
 
 Getting Started
 ^^^^^^^^^^^^^^^
-* Read the :doc:`/modtools/creation/rules`
+* Read the :doc:`/modtools/uploading/rules`
 * :doc:`/modtools/creation/install-editor`
 * :doc:`/modtools/creation/install-resources`
 * :doc:`/modtools/creation/using-editor`
-* :doc:`/modtools/uploading/directory`
-* :doc:`/modtools/uploading/github`
 * :doc:`/modtools/uploading/post-editor`
 
 Resources
 ^^^^^^^^^
-* :doc:`/modtools/creation/rules`
-* :doc:`/modtools/uploading/requirements`
+* :doc:`/modtools/uploading/rules`
+* :doc:`/modtools/creation/requirements`
 * :doc:`/modtools/uploading/jsonschema`
 * :doc:`/modtools/uploading/resourcepacks`
-* :doc:`/modtools/uploading/compiling`
+* :doc:`/modtools/creation/directory`
+* :doc:`/modtools/uploading/github`
+* :doc:`/modtools/uploading/submitting`
+* :doc:`/modtools/creation/compiling`
 
 
 Support

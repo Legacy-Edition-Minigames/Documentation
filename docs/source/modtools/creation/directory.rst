@@ -8,6 +8,9 @@ What is the map directory?
 
 The map directory is where all the data required to compile a map is stored, all the map sizes, dimension data, and metadata.
 
+.. attention::
+   If you are planning to submit your map to the server, ignore this guide. Use the :doc:`/modtools/uploading/github` instead
+
 Adding world data
 -----------------
 
@@ -36,7 +39,7 @@ Adding world data
    .. note::
     There are 4 possible map types, ``small``, ``large``, ``largeplus``, and ``remastered``
 
-    More information can be found on the :doc:`/modtools/uploading/requirements`
+    More information can be found on the :doc:`/modtools/creation/requirements`
 
 Configuring metadata
 --------------------

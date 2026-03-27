@@ -12,14 +12,15 @@ Welcome to the Legacy Edition Minigames documentation!
    /modtools/creation/install-editor
    /modtools/creation/install-resources
    /modtools/creation/using-editor
-   /modtools/creation/rules
+   /modtools/uploading/rules
 
-   /modtools/uploading/requirements
-   /modtools/uploading/directory
-   /modtools/uploading/compiling
-   /modtools/uploading/github
-   /modtools/uploading/jsonschema
+   /modtools/creation/requirements
    /modtools/uploading/post-editor
+   /modtools/uploading/github
+   /modtools/uploading/submitting
+   /modtools/creation/directory
+   /modtools/creation/compiling
+   /modtools/uploading/jsonschema
    /modtools/uploading/resourcepacks
 
 
