@@ -6,6 +6,9 @@ Modtools landing
 
    If you are not a developer or moderator, you should probably head back to the `normal documentation <https://docs.legacyminigames.net>`_!
 
+Moderation & Submissions
+^^^^^^^^^^^^^^^^^^^^^^^^
+* :doc:`/modtools/uploading/submissions`
 
 Support
 ^^^^^^^
