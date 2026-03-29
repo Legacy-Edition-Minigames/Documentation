@@ -13,6 +13,7 @@ In the future, it will support the ability to create other kinds of custom conte
 About The Modtools Map Editor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The Modtools Map Editor is the editor for creating custom maps for LEM.
+
 Currently it only works with Battle, but in the future it will support Glide and Tumble.
 
 .. important::
@@ -43,4 +44,5 @@ Resources
 Support
 ^^^^^^^
 We understand not everyone understands the documentation first try.
+
 If you need support creating your map the `Legacy Edition Minigames Discord server <https://www.legacyminigames.net/discord>`_ or the `Github Issues Page <https://github.com/Legacy-Edition-Minigames/ModTools/issues>`_ is available.

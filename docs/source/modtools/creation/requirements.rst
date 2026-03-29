@@ -42,6 +42,7 @@ however there are some recommendations for center and powerful chests.
 Required Spawnpoints
 ^^^^^^^^^^^^^^^^^^^^
 There must be at least 8 Central and 8 Random spawnpoints for a map to load properly.
+
 When building a Large+ map, 16 of each spawnpoint type should be used instead.
 
 Here are some spawnpoint recommendations.

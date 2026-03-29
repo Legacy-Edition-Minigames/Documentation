@@ -28,6 +28,7 @@ Chests
 .. image:: /images/modtools/using-editor/chests.png
 
 The Chest Items are used to create the 3 basic chests that can be found in the battle minigame.
+
 Chests contain loot that provide players with armour, weapons, food, potions, etc.
 
 +-----------------+---------------------------------------------------------------------------------------------------------+
@@ -67,6 +68,7 @@ Spawnpoints
 .. image:: /images/modtools/using-editor/spawnpoints.png
 
 Central Spawnpoint: Inital spawn locations for players, these should be placed near the Map Center and Central Chests.
+
 Random Spawnpoint: Respawn locations for players when multiple lives are enabled or spawn locations when ``Central Spawn`` is disabled.
 
 Here are some spawnpoint recommendations.
@@ -88,6 +90,7 @@ Map Center
    Once placed, it will glow when its item is held.
 
 Not to be confused with centercoords from :doc:`/modtools/uploading/jsonschema`
+
 The editor's map center tells the server where the players should look at round start, and where to hold players during map load.
 
 
@@ -100,6 +103,7 @@ Positive & Negative Borders
 .. image:: /images/modtools/using-editor/borders.png
 
 Positive Border: It is green, and should be placed at the top of the map.
+
 Negative Border: It is red, and should be placed at the bottom of the map.
 
 The borders should always be facing eachother when placed, they are designed to help players
