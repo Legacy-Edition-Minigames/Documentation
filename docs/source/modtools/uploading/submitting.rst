@@ -3,20 +3,9 @@ Submitting your map
 .. meta::
    :description lang=en: How to submit your map to the server
 
-.. warning::
-    **WARNING WARNING WARNING!!!**
-    
-    Submissions are **NOT ENABLED YET!!!** We are still working on finalizing the process for submissions.
-
-    Please wait for submissions to become available. Thank you.
-
 .. note::
     This guide assumes you've done everything in :doc:`/modtools/uploading/post-editor`, make sure you read it before continuing.
 
-**Note: Submission method to be determined by the LEM administration team.**
-
-.. important::
-    The following references features that are not currently available to the public.
 
 Submitting a new map
 ^^^^^^^^^^^^^^^^^^^^
@@ -49,24 +38,17 @@ Submitting a new map
     .. image:: /images/modtools/submitting/publish.png
 
 
-2. Go to `The Modtools Database <https://github.com/Legacy-Edition-Minigames/ModTools-Database/issues>`_
-   
-3. Press the ``New issue`` button.
+2. Go to `The Modtools Database submission form <https://github.com/Legacy-Edition-Minigames/ModTools-Database/issues/new/choose>`_
 
-.. error::
-    Missing image
+3. Click ``Submit a mod``.
 
-4. Click ``Submit a mod``.
-
-.. error::
-    Missing image
+    .. image:: /images/modtools/submitting/createissue.png
     
-5. Fill out the form with information about your mod.
+4. Fill out the form with information about your mod.
 
-.. error::
-    Missing image
+    .. image:: /images/modtools/submitting/fillform.png
 
-6. Wait for a moderator to review your map, they will request changes if needed.
+5. Wait for a moderator to review your map, they will request changes if needed.
 
 .. _submitting-update:
 
@@ -113,8 +95,7 @@ Submitting an update to your map
 
 3. Find your map that you want to submit an update to
 
-.. error::
-    Missing image
+    .. image:: /images/modtools/submitting/search.png
 
 4. Leave a comment mentioning that you have made an update with a changelog of the changes you have made.
 

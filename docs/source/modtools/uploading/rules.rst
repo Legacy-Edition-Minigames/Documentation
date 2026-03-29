@@ -3,11 +3,6 @@ Modtools Map Rules
 .. meta::
    :description lang=en: Rules to follow when creating a custom map
 
-.. attention::
-    Rules to be replaced by the revised language when decided by the LEM administration team.
-
-    These rules are not final.
-
 Featured map rules
 ------------------
 These are the rules for maps in the **Featured** category

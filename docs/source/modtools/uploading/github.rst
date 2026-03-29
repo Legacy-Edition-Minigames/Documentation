@@ -22,13 +22,6 @@ Requirements
 
 How do I upload my map to GitHub?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. warning::
-    **WARNING WARNING WARNING!!!**
-    
-    Submissions are **NOT ENABLED YET!!!** We are still working on finalizing the process for submissions.
-
-    Please wait for submissions to become available. Thank you.
-
 1. Once you are signed in to GitHub, go to `this site <https://github.com/new?template_name=Example-LEM-Mod&template_owner=Legacy-Edition-Minigames>`_
 
     * For `Repository name` put in your map name.
@@ -107,7 +100,7 @@ How do I upload my map to GitHub?
 
     .. image:: /images/modtools/github/pushorigin.png
 
-Your map repository is now on github! To continue with the map submission process see :doc:`/modtools/uploading/submitting`
+**Your map repository is now on github! To continue with the map submission process see** :doc:`/modtools/uploading/submitting`
 
 
 How do I upload an update of my map?
@@ -179,4 +172,4 @@ How do I upload an update of my map?
 
     .. image:: /images/modtools/github/pushorigin.png
 
-Your map repository is now on github! To continue with the map submission process see :ref:`submitting-update`
+**Your map's update is now on github! To continue with the map submission process see** :ref:`submitting-update`
