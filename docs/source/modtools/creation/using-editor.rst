@@ -50,17 +50,6 @@ Chests contain loot that provide players with armour, weapons, food, potions, et
 
 By default, every 30 seconds 4 random chests are refilled with items.
 
-+------------+------------------------------+
-| Map size   | Spawnpoint count             |
-+============+==============================+
-| Small      | 8 spawnpoints of each type.  |
-+------------+------------------------------+
-| Large      | 8 spawnpoints of each type.  |
-+------------+------------------------------+
-| Large+     | 16 spawnpoints of each type. |
-+------------+------------------------------+
-| Remastered | 16 spawnpoints of each type. |
-+------------+------------------------------+
 
 Spawnpoints
 ^^^^^^^^^^^
@@ -74,6 +63,17 @@ Random Spawnpoint: Respawn locations for players when multiple lives are enabled
 Here are some spawnpoint recommendations.
 *If you only plan to create 1 map size Large+ is suggested.*
 
++------------+------------------------------+
+| Map size   | Spawnpoint count             |
++============+==============================+
+| Small      | 8 spawnpoints of each type.  |
++------------+------------------------------+
+| Large      | 8 spawnpoints of each type.  |
++------------+------------------------------+
+| Large+     | 16 spawnpoints of each type. |
++------------+------------------------------+
+| Remastered | 16 spawnpoints of each type. |
++------------+------------------------------+
 
 .. important::
    There must be at least 8 Central and 8 Random spawnpoints for a map to load properly.
@@ -86,6 +86,9 @@ Map Center
 
 .. image:: /images/modtools/using-editor/center.png
 
+.. important::
+    This object must be placed for the map to load properly.
+
 .. tip:: 
    Once placed, it will glow when its item is held.
 
@@ -93,9 +96,6 @@ Not to be confused with centercoords from :doc:`/modtools/uploading/jsonschema`
 
 The editor's map center tells the server where the players should look at round start, and where to hold players during map load.
 
-
-.. important::
-    This object must be placed for the map to load properly.
 
 Positive & Negative Borders
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -109,11 +109,11 @@ Negative Border: It is red, and should be placed at the bottom of the map.
 The borders should always be facing eachother when placed, they are designed to help players
 align them properly.
 
-.. tip:: 
-   Once placed, both will glow when a border item is held.
-
 .. important::
     This object must be placed for the map to load properly.
+
+.. tip:: 
+   Once placed, both will glow when a border item is held.
 
 Remove Tool
 ^^^^^^^^^^^
@@ -121,6 +121,6 @@ Remove Tool
 .. image:: /images/modtools/using-editor/remove.png
 
 .. tip::
-   To show all objects, sneak while holding the remove tool.
+   To show all objects, press your sneak key while holding the remove tool.
 
 The remove tool allows you to remove objects. Simply hold it and point at the object you want to remove, then click.
