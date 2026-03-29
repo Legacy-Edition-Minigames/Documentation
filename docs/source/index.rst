@@ -9,41 +9,19 @@ Welcome to the Legacy Edition Minigames documentation!
 
    /modtools/landing
    
-   /modtools/creation/install-editor
-   /modtools/creation/install-resources
-   /modtools/creation/using-editor
-   /modtools/uploading/rules
-
-   /modtools/creation/requirements
-   /modtools/uploading/post-editor
-   /modtools/uploading/github
-   /modtools/uploading/submitting
-   /modtools/creation/directory
-   /modtools/creation/compiling
-   /modtools/uploading/jsonschema
-   /modtools/uploading/resourcepacks
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: 📦 Custompack
-
-   /custompack/landing
-   
-   /custompack/creation
-   /custompack/commonassets
-   /custompack/toggling
+   /modtools/uploading/submissions
    
    
 
-.. caution::
-   The documentation here is unfinished! *Many* important pages do not exist yet.
-   
-   Information may not be accurate and could be referencing unreleased features.
+.. danger::
+   This is the documentation for **developers and moderators**, NOT for end users!
 
-   Currently, the only section considered complete is ModTools.
+   If you are not a developer or moderator, you should probably head back to the `normal documentation <https://docs.legacyminigames.net>`_!
 
-To get started with the Modtools Map Editor, see the :doc:`modtools/landing` guide.
+.. warning::
+   The developer documentation is very incomplete in its current state!
 
-To learn about custompack see the :doc:`custompack/landing` information.
+   Information could be innacurate.
+
+.. important::
+   The developer documentation assumes you already know how to navigate your system's terminal, and also already have some git knowledge.

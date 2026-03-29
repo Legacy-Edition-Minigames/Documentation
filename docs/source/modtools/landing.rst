@@ -1,43 +1,10 @@
 Modtools landing
 ================
-.. meta::
-   :description lang=en: Learn to create a custom map for a LEM server
 
-About LEM Modtools
-^^^^^^^^^^^^^^^^^^
-Modtools is LEM's custom map creation suite, it is a publicly available set of resources
-to help users create a map that is compatible with servers running a LEM instance.
+.. danger::
+   This is the documentation for **developers and moderators**, NOT for end users!
 
-In the future, it will support the ability to create other kinds of custom content, like Lobbies and Item Sets.
-
-About The Modtools Map Editor
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The Modtools Map Editor is the editor for creating custom maps for LEM.
-Currently it only works with Battle, but in the future it will support Glide and Tumble.
-
-.. important::
-    **All maps must be in compliance with the** :doc:`/modtools/uploading/rules`
-
-    Make sure to read it before you start building.
-
-Getting Started
-^^^^^^^^^^^^^^^
-* Read the :doc:`/modtools/uploading/rules`
-* :doc:`/modtools/creation/install-editor`
-* :doc:`/modtools/creation/install-resources`
-* :doc:`/modtools/creation/using-editor`
-* :doc:`/modtools/uploading/post-editor`
-
-Resources
-^^^^^^^^^
-* :doc:`/modtools/uploading/rules`
-* :doc:`/modtools/creation/requirements`
-* :doc:`/modtools/uploading/jsonschema`
-* :doc:`/modtools/uploading/resourcepacks`
-* :doc:`/modtools/creation/directory`
-* :doc:`/modtools/uploading/github`
-* :doc:`/modtools/uploading/submitting`
-* :doc:`/modtools/creation/compiling`
+   If you are not a developer or moderator, you should probably head back to the `normal documentation <https://docs.legacyminigames.net>`_!
 
 
 Support
