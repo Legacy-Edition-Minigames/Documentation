@@ -99,8 +99,8 @@ Positive & Negative Borders
 
 .. image:: /images/modtools/using-editor/borders.png
 
-Positive Border: It is green, and should be placed in the most positive corner of the map.
-Negative Border: It is red, and should be placed in the most negative corner of the map.
+Positive Border: It is green, and should be placed at the top of the map.
+Negative Border: It is red, and should be placed at the bottom of the map.
 
 The borders should always be facing eachother when placed, they are designed to help players
 align them properly.
