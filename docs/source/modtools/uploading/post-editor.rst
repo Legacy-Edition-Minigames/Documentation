@@ -12,7 +12,7 @@ Trimming the map
 ^^^^^^^^^^^^^^^^
 To maintain compliance with the :doc:`/modtools/uploading/rules` battle maps must be under 25 MB.
 
-The easiest way of doing this is by trimming the unused content from the map files.
+The easiest way of doing this is by trimming the unused content from the map files by using `MCA Selector <https://github.com/Querz/mcaselector>`_.
 
 If you haven't already please make sure that the borders are set up correctly
 
