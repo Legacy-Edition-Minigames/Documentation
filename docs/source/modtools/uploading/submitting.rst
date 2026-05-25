@@ -38,7 +38,7 @@ Submitting a new map
     .. image:: /images/modtools/submitting/publish.png
 
 
-2. Go to `The Modtools Database submission form <https://github.com/Legacy-Edition-Minigames/ModTools-Database/issues/new/choose>`_
+2. Go to `The ModTools Database submission form <https://github.com/Legacy-Edition-Minigames/ModTools-Database/issues/new/choose>`_
 
 3. Click ``Submit a mod``.
 
@@ -91,7 +91,7 @@ Submitting an update to your map
 
     .. image:: /images/modtools/submitting/publish2.png
 
-2. Go to `The Modtools Database <https://github.com/Legacy-Edition-Minigames/ModTools-Database/issues>`_
+2. Go to `The ModTools Database <https://github.com/Legacy-Edition-Minigames/ModTools-Database/issues>`_
 
 3. Find your map that you want to submit an update to
 

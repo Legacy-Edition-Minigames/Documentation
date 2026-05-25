@@ -5,7 +5,7 @@ Welcome to the Legacy Edition Minigames documentation!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 🛠️ Modtools
+   :caption: 🛠️ ModTools
 
    /modtools/landing
    
@@ -44,6 +44,6 @@ Welcome to the Legacy Edition Minigames documentation!
 
    Currently, the only section considered complete is ModTools.
 
-To get started with the Modtools Map Editor, see the :doc:`modtools/landing` guide.
+To get started with the ModTools Map Editor, see the :doc:`modtools/landing` guide.
 
 To learn about custompack see the :doc:`custompack/landing` information.
