@@ -9,7 +9,7 @@ Installing ToolBox
 Checking Java Version
 ^^^^^^^^^^^^^^^^^^^^^
 In order to run ToolBox you need to have a Java version >= 21.
-You can check this by using the `java -version` command in your terminal.
+You can check this by using the ``java -version`` command in your terminal.
 
 .. video:: /images/toolbox/checkjava.mp4
    :muted:
@@ -19,7 +19,7 @@ You can check this by using the `java -version` command in your terminal.
 
 Installing ToolBox
 ^^^^^^^^^^^^^^^^^^
-ToolBox can be downloaded from LEM's GitHub.
+ToolBox can be downloaded from `LEM's GitHub <https://github.com/Legacy-Edition-Minigames/ToolBox/releases/latest>`_.
 
 .. tip::
    We recommend saving the ToolBox jar into it's own folder.
