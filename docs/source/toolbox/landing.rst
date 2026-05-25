@@ -18,9 +18,9 @@ to download.
 
 Getting started
 ^^^^^^^^^^^^^^^
-* :doc: `installing-toolbox`
-* :doc: `using-toolbox`
-* :doc: `exporting-and-importing-servers`
+* :doc:`installing-toolbox`
+* :doc:`using-toolbox`
+* :doc:`exporting-and-importing-servers`
 
 
 .. caution::
