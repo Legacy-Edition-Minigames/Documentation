@@ -1,18 +1,18 @@
-Modtools landing
+ModTools landing
 ================
 .. meta::
    :description lang=en: Learn to create a custom map for a LEM server
 
-About LEM Modtools
+About LEM ModTools
 ^^^^^^^^^^^^^^^^^^
-Modtools is LEM's custom map creation suite, it is a publicly available set of resources
+ModTools is LEM's custom map creation suite, it is a publicly available set of resources
 to help users create a map that is compatible with servers running a LEM instance.
 
 In the future, it will support the ability to create other kinds of custom content, like Lobbies and Item Sets.
 
-About The Modtools Map Editor
+About The ModTools Map Editor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The Modtools Map Editor is the editor for creating custom maps for LEM.
+The ModTools Map Editor is the editor for creating custom maps for LEM.
 Currently it only works with Battle, but in the future it will support Glide and Tumble.
 
 .. important::

@@ -1,4 +1,4 @@
-Modtools Map Rules
+ModTools Map Rules
 ==================
 .. meta::
    :description lang=en: Rules to follow when creating a custom map
