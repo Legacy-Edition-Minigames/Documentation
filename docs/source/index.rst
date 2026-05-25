@@ -5,7 +5,7 @@ Welcome to the Legacy Edition Minigames documentation!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 🛠️ Modtools
+   :caption: 🛠️ ModTools
 
    /modtools/landing
    

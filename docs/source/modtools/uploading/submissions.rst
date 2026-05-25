@@ -1,7 +1,7 @@
 Submission handling
 ===================
 .. meta::
-   :description lang=en: Learn how to accept and update modtools submissions
+   :description lang=en: Learn how to accept and update ModTools submissions
 
 This guide is for adding and updating mods to the ModTools Database repository on GitHub.
 

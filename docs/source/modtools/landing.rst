@@ -1,4 +1,4 @@
-Modtools landing
+ModTools landing
 ================
 
 .. danger::
