@@ -23,6 +23,15 @@ Welcome to the Legacy Edition Minigames documentation!
    /modtools/uploading/jsonschema
    /modtools/uploading/resourcepacks
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🧰 ToolBox
+   
+   /toolbox/landing
+   /toolbox/installing-toolbox
+   /toolbox/using-toolbox
+   /toolbox/exporting-and-importing-servers
 
 .. toctree::
    :maxdepth: 2
