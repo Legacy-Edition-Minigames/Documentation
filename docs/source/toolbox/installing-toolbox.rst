@@ -24,8 +24,11 @@ ToolBox can be downloaded from `LEM's GitHub <https://github.com/Legacy-Edition-
 .. tip::
    We recommend saving the ToolBox jar into it's own folder.
 
-If you installed ToolBox with the updater, ToolBox may prompt you to install the
-latest version when you first launch it. Follow the input prompts to download the update.
+After downloading ToolBox, navigate to it's containing folder and run ``java -jar Toolbox2.0.jar``
+to launch it. Toolbox will then prompt you to download and install the required files.
+
+If you installed ToolBox with the updater, ToolBox will check for available updates on every
+relaunch. Installing ToolBox without the updater will skip this step.
 
 .. video:: /images/toolbox/installtoolbox.mp4
    :muted:

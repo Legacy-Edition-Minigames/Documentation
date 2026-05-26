@@ -21,7 +21,7 @@ Getting started
 * :doc:`installing-toolbox`
 * :doc:`using-toolbox`
 * :doc:`exporting-and-importing-servers`
-
+* :doc:`installing-modtools-content`
 
 .. caution::
    Here be dragons, ToolBox is still being developed, and some features

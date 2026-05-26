@@ -10,6 +10,8 @@ more than once, for example if you had a specific set of ModTools maps you wante
 on more than one server.
 
 To make this process easier ToolBox supports Exporting and Importing your servers.
+You can share these exported servers with friends, or they may be requested by developers
+to help with support.
 
 Exporting a Server
 ^^^^^^^^^^^^^^^^^^

@@ -3,6 +3,11 @@ Using ToolBox
 .. meta::
    :description lang=en: Using ToolBox to setup a server.
 
+Launching ToolBox
+^^^^^^^^^^^^^^^^^
+As with the installation process, ToolBox can be launched by navigating to it's
+containing folder and running ``java -jar Toolbox2.0.jar``
+
 Setting up a server
 ^^^^^^^^^^^^^^^^^^^
 After starting ToolBox, you can setup a new server.
@@ -38,3 +43,33 @@ in the ``Installed Servers`` list.
 
 Once you have selected the server, the server options menu will re-appear, this menu
 is used to start, update, rename, delete, and export your server.
+
+Launch Arguments
+^^^^^^^^^^^^^^^^
+Below is a list of launch arguments.
+
++------------------------------+-----------------------------------------------------+
+| Argument                     | Function                                            |
++==============================+=====================================================+
+| --server [ServerName]        | Sets target server name.                            |
++------------------------------+-----------------------------------------------------+
+| --updateServer               | Updates targeted server if installed.               |
++------------------------------+-----------------------------------------------------+
+| --launchServer               | Launches targeted server if installed.              |
++------------------------------+-----------------------------------------------------+
+| --installServer              | Creates new server with target name.                |
++------------------------------+-----------------------------------------------------+
+| --newServerRam [RAM GB]      | Sets new server ram to specified amount.            |
++------------------------------+-----------------------------------------------------+
+| --newServerBranch [Branch]   | Sets new server to specified branch.                |
++------------------------------+-----------------------------------------------------+
+| --newServerEULA [True/False] | Sets new server EULA agreement value.               |
++------------------------------+-----------------------------------------------------+
+| --unattendedInstall          | Closes ToolBox after server installation completes. |
++------------------------------+-----------------------------------------------------+
+| --autoRestart                | Restarts server if server is stopped.               |
++------------------------------+-----------------------------------------------------+
+| --autoExit                   | Closes ToolBox if server is stopped.                |
++------------------------------+-----------------------------------------------------+
+| --skipSplash                 | Skips ToolBox welcome splash on launch.             |
++------------------------------+-----------------------------------------------------+
